@@ -1,0 +1,3251 @@
+id,name,description,movie_id
+0,Frodo Baggins,The comic relief,431
+1,General Smith,The antagonist,431
+2,Jack Sparrow,The loyal friend,431
+3,Rose DeWitt Bukater,The rookie,431
+4,Atticus Finch,The mysterious stranger,432
+5,Han Solo,The betrayer,432
+6,General Hall,The antagonist,432
+7,Professor Smith,The villain,433
+8,Sheriff Thomas,A supporting character,433
+9,Officer Wilson,The mysterious stranger,433
+10,Godzilla,The mentor,433
+11,King Henderson,The reluctant hero,433
+12,Agent Thomas,The protagonist,434
+13,Sir White,The protagonist,434
+14,Prince Robinson,The sidekick,434
+15,Vito Corleone,The loyal friend,434
+16,Professor Miller,The protagonist,434
+17,John Rambo,The mentor,434
+18,Lady Walker,The sidekick,434
+19,Duchess Hill,The sidekick,434
+20,Sergeant Allen,The comic relief,16
+21,Mrs. Robinson,A supporting character,434
+22,General Moore,The love interest,434
+23,Lord Santos,The anti-hero,434
+24,Hulk,The comic relief,435
+25,Ms. Gardner,The wise elder,435
+26,Gollum,The rookie,17
+27,Sheriff Lewis,The loyal friend,435
+28,Officer Walker,A supporting character,435
+29,Doctor Watson,A supporting character,435
+30,Severus Snape,A supporting character,435
+31,Superman,The antagonist,435
+32,Sergeant Brown,The wise elder,18
+33,Princess Leia,The betrayer,435
+34,Katniss Everdeen,The comic relief,435
+35,Sir Walker,The wise elder,436
+36,Captain Marvel,The rookie,436
+37,Scarlett O'Hara,The love interest,436
+38,Lord Jones,The villain,437
+39,Officer Jones,The reluctant hero,437
+40,Luke Skywalker,The wise elder,437
+41,Holly Golightly,A supporting character,437
+42,Ms. Johnson,The love interest,18
+43,Tony Montana,The villain,438
+44,Black Panther,The rookie,438
+45,Michael Myers,The mentor,438
+46,Ethan Hunt,The villain,438
+47,Sauron,The mentor,438
+48,General Wright,The rookie,438
+49,Morpheus,The protagonist,438
+50,Jason Bourne,The reluctant hero,439
+51,Ellen Ripley,The loyal friend,439
+52,Sarah Connor,The villain,439
+53,John McClane,The reluctant hero,1
+54,Sergeant Jackson,The mentor,439
+55,Mrs. Harris,The rookie,439
+56,Doc Brown,The anti-hero,439
+57,Princess Davis,A supporting character,440
+58,Lady Lawrence,The antagonist,440
+59,Iron Man,The villain,440
+60,Sir Miller,The sidekick,440
+61,Sheriff Peterson,The wise elder,440
+62,Lord Johnson,The mentor,43
+63,Duke Fowler,The rookie,4
+64,Clarice Starling,The comic relief,19
+65,Princess White,The mysterious stranger,60
+66,Rocky Balboa,The mentor,440
+67,Lord Rogers,The villain,440
+68,Ms. Walker,The betrayer,440
+69,Detective Wright,The mentor,440
+70,Thor,The love interest,441
+71,Doctor Green,The comic relief,441
+72,Sir Hall,The betrayer,72
+73,Captain America,The villain,441
+74,Ms. Wolfe,The antagonist,441
+75,Colonel Williams,The love interest,441
+76,Agent Doyle,The comic relief,441
+77,Mrs. Gonzalez,The wise elder,441
+78,Magneto,The sidekick,442
+79,Ms. Smith,The wise elder,442
+80,The Terminator,The mentor,442
+81,Indiana Jones,The mysterious stranger,442
+82,Mr. Clark,The mentor,442
+83,Agent Wright,The protagonist,443
+84,Captain Walker,The betrayer,443
+85,James Bond,The rookie,443
+86,Lord Davis,The comic relief,443
+87,Chief Lewis,The mentor,443
+88,Doctor Wright,The protagonist,443
+89,Wolverine,The wise elder,443
+90,Michael Corleone,The betrayer,443
+91,Loki,The rookie,443
+92,Duke Allen,The loyal friend,443
+93,Forrest Gump,The mysterious stranger,443
+94,Captain Johnson,The protagonist,444
+95,Professor X,The reluctant hero,444
+96,Ms. Davis,The wise elder,444
+97,Colonel Allen,The mysterious stranger,40
+98,E.T.,The villain,444
+99,General Harris,The betrayer,444
+100,Hermione Granger,The reluctant hero,73
+101,Sergeant Pacheco,The reluctant hero,444
+102,Doctor Johnson,The mentor,444
+103,Freddy Krueger,The loyal friend,22
+104,Jason Voorhees,The loyal friend,7
+105,Professor Shaffer,The love interest,445
+106,Ms. Moore,The wise elder,445
+107,Prince Jones,The loyal friend,445
+108,Professor Jones,The sidekick,445
+109,Mr. Jackson,The love interest,445
+110,Travis Bickle,The rookie,27
+111,Ron Weasley,The love interest,445
+112,Harry Potter,The wise elder,40
+113,Princess Jones,The mentor,445
+114,Mr. White,The rookie,104
+115,Lady White,The loyal friend,445
+116,Professor Jackson,The mysterious stranger,29
+117,Hannibal Lecter,The loyal friend,445
+118,General Williams,The rookie,446
+119,Doctor Strange,The rookie,446
+120,Tyler Durden,The betrayer,446
+121,John Connor,A supporting character,111
+122,Queen Hall,The rookie,446
+123,Chief Taylor,The antagonist,86
+124,Darth Vader,The reluctant hero,446
+125,Sheriff Davis,The rookie,446
+126,King Johnson,The rookie,17
+127,Captain Jackson,The protagonist,446
+128,Chief Allen,The mentor,124
+129,Doctor Wilson,The loyal friend,20
+130,John Wick,The villain,446
+131,General Davis,The protagonist,447
+132,Norman Bates,The wise elder,48
+133,Neo,The sidekick,447
+134,Captain Green,The mysterious stranger,53
+135,Thanos,A supporting character,447
+136,Storm,The antagonist,44
+137,Voldemort,The reluctant hero,120
+138,Lord Scott,The mentor,81
+139,Captain Baker,The sidekick,448
+140,Laurie Strode,The mysterious stranger,448
+141,Detective Rhodes,The comic relief,448
+142,King Kong,A supporting character,448
+143,King Mcclain,The love interest,448
+144,Black Widow,A supporting character,449
+145,Dorothy Gale,The loyal friend,77
+146,Lord Lewis,The anti-hero,138
+147,Trinity,The reluctant hero,449
+148,Legolas,The sidekick,449
+149,Agent Jackson,The anti-hero,449
+150,Albus Dumbledore,The anti-hero,132
+151,Batman,The reluctant hero,449
+152,Aragorn,The mentor,107
+153,Ms. Wright,The betrayer,450
+154,The Joker,A supporting character,450
+155,Wonder Woman,The mentor,450
+156,Colonel Wagner,The reluctant hero,50
+157,Agent Smith,The betrayer,450
+158,Peeta Mellark,The villain,53
+159,Doctor Anderson,The loyal friend,122
+160,Jack Dawson,The mentor,11
+161,Officer Wright,The mysterious stranger,450
+162,Sherlock Holmes,The betrayer,147
+163,Maximus,The sidekick,450
+164,Marty McFly,The loyal friend,54
+165,Rick Blaine,The antagonist,451
+166,Colonel Lewis,The villain,451
+167,Ferris Bueller,The antagonist,451
+168,Tony Stark,A supporting character,164
+169,Cyclops,The loyal friend,451
+170,Gandalf,The love interest,452
+171,Duchess Bernard,The betrayer,452
+172,General Brown,The rookie,58
+173,Nefepabe,The mentor,452
+174,Paul Obrien,The villain,453
+175,Detective Perry,The wise elder,7
+176,Nifojusa,The protagonist,2
+177,Agent Dunn,The rookie,149
+178,Joshua Beck,The rookie,453
+179,Lopifugi,The protagonist,453
+180,David Fischer,The mentor,453
+181,Fika,The reluctant hero,453
+182,Morgan,The comic relief,454
+183,Tupoza,The mysterious stranger,454
+184,Christopher,The reluctant hero,454
+185,Fisizopi,The mentor,454
+186,Michael Miller,The mysterious stranger,454
+187,Agent Elliott,The villain,454
+188,Nefi,The rookie,454
+189,Officer Brown,The protagonist,454
+190,Hugaro,The antagonist,454
+191,Amy,The rookie,454
+192,Laura Hernandez,The protagonist,69
+193,Agent Murphy,A supporting character,27
+194,Abigail,The antagonist,455
+195,Darren,The wise elder,176
+196,Jamie,The betrayer,455
+197,Brandy,The sidekick,455
+198,Christopher,The loyal friend,1
+199,Rhonda Chavez,The mentor,455
+200,William,A supporting character,93
+201,Captain Bryant,The antagonist,455
+202,Joel Roman,A supporting character,36
+203,Jennifer Velasquez,The sidekick,455
+204,Julie,The wise elder,455
+205,Dr. Lane,A supporting character,129
+206,Dr. Williams,A supporting character,455
+207,Fudosari,The loyal friend,455
+208,Professor Cooper,The villain,17
+209,Bryce,The wise elder,67
+210,Taylor Jones DVM,The mysterious stranger,456
+211,Senator Johnson,The rookie,84
+212,Randy Cannon,The protagonist,456
+213,Pufosi,The mysterious stranger,456
+214,Fame,The wise elder,175
+215,Tiffany,The antagonist,456
+216,Debbie,The mentor,122
+217,Major Fisher,The wise elder,456
+218,Senator Haney,The anti-hero,456
+219,Fuva,The mysterious stranger,119
+220,Patrick,The comic relief,456
+221,Pimo,The betrayer,141
+222,Pofima,The comic relief,456
+223,Detective Kane,The sidekick,456
+224,Rebecca,The rookie,34
+225,Fefa,The antagonist,456
+226,Nige,The anti-hero,457
+227,Michael Stanley,The wise elder,457
+228,Professor Ryan,The comic relief,146
+229,Major Valdez,The betrayer,61
+230,Christopher Medina,The mentor,10
+231,Officer Rice,The antagonist,457
+232,Jessica,A supporting character,128
+233,Fomu,The betrayer,130
+234,Professor Walker,The loyal friend,165
+235,Agent Smith,The loyal friend,23
+236,Zuzovebo,The wise elder,457
+237,Dr. Johnson,A supporting character,134
+238,Detective Evans,The reluctant hero,457
+239,Officer Nunez,The protagonist,101
+240,Amy,The betrayer,47
+241,Amanda,The wise elder,457
+242,Gobo,The antagonist,116
+243,Madeline,The comic relief,104
+244,Mohani,The mentor,208
+245,Professor Wright,The reluctant hero,43
+246,Donald Pineda,A supporting character,457
+247,Jessica,The loyal friend,171
+248,Robert Barnes,The rookie,457
+249,Stacey Smith,The mentor,80
+250,Pusizire,The comic relief,457
+251,Agent Harris,The loyal friend,457
+252,Andrew Harper,The sidekick,250
+253,Leza,The villain,53
+254,Dr. Warner,The love interest,194
+255,Dibajelo,The love interest,194
+256,Brandon,The loyal friend,16
+257,Detective Yang,The sidekick,51
+258,David Robinson,The protagonist,457
+259,Rahigeno,The anti-hero,458
+260,Michelle,The anti-hero,243
+261,Professor Brown,The comic relief,12
+262,Donna Cabrera,The comic relief,458
+263,Emma Harper,The villain,217
+264,Erica Turner,The betrayer,202
+265,Major Thomas,The wise elder,177
+266,Polifupe,The protagonist,116
+267,Captain Keller,The loyal friend,458
+268,Neferafo,The love interest,458
+269,Petifapa,The betrayer,187
+270,Officer Walker,The love interest,1
+271,Captain Turner,The antagonist,458
+272,Travis Hobbs,The anti-hero,458
+273,Rhonda,The reluctant hero,458
+274,Officer Garrett,The mysterious stranger,129
+275,Ronald,The love interest,459
+276,William David DDS,A supporting character,0
+277,Agent Floyd,A supporting character,459
+278,Lucas,The loyal friend,160
+279,Chase Bennett,A supporting character,459
+280,Vivuri,The rookie,115
+281,Officer Webster,A supporting character,460
+282,Sare,The rookie,59
+283,Detective Wells,The wise elder,146
+284,Elizabeth Zimmerman,The sidekick,460
+285,Suzanne Hart,The mentor,460
+286,Budini,The betrayer,129
+287,Professor Faulkner,The rookie,108
+288,Brandi Sanchez,The wise elder,460
+289,Vuvada,The villain,143
+290,James,The sidekick,460
+291,Gudirifo,The loyal friend,460
+292,Professor Lucas,The anti-hero,198
+293,Sandra,The protagonist,461
+294,Melanie,The mysterious stranger,122
+295,Titezo,A supporting character,461
+296,Officer Davis,The reluctant hero,139
+297,Major Hardy,The comic relief,461
+298,Dr. Lee,The loyal friend,461
+299,Professor Adams,The sidekick,461
+300,Lindsey Russo,The anti-hero,196
+301,Kizigu,The sidekick,461
+302,Philip Ramsey,The wise elder,295
+303,Angelica,The reluctant hero,134
+304,Detective Mendoza,The rookie,461
+305,Zefa,The mentor,461
+306,Migetife,The rookie,204
+307,Nebinelu,A supporting character,190
+308,Molly,The sidekick,461
+309,Jogi,A supporting character,121
+310,Tyler Smith,The mentor,461
+311,Tonya Wilson,The anti-hero,277
+312,Mrs. Dana Munoz MD,The rookie,462
+313,Captain Herman,The wise elder,276
+314,Haho,The betrayer,33
+315,Andrea,The mysterious stranger,37
+316,Pine,The rookie,98
+317,Kimberly,The villain,236
+318,Senator James,The love interest,222
+319,Amanda,The mentor,462
+320,Nivo,The villain,293
+321,Nosuti,The comic relief,137
+322,Michael,The betrayer,80
+323,Jose,The loyal friend,462
+324,William,The betrayer,87
+325,Dr. Crawford,The rookie,462
+326,Vafote,The betrayer,60
+327,William Harrison,The mentor,133
+328,Suzanne Wood,The loyal friend,222
+329,Robert,The mentor,462
+330,Gorafejo,The betrayer,121
+331,Bopode,The comic relief,112
+332,Agent Hart,The comic relief,14
+333,Charles Green,The sidekick,317
+334,Sarah,The protagonist,294
+335,Professor Riley,The betrayer,110
+336,Captain Butler,A supporting character,318
+337,Gary James,The mentor,322
+338,Gisarizo,The protagonist,291
+339,Kathryn Pena,The protagonist,290
+340,Agent Cohen,The betrayer,142
+341,Jonathan,The anti-hero,59
+342,Leka,The mentor,155
+343,Tracy May,The protagonist,120
+344,Tracy,The comic relief,242
+345,Fuso,The wise elder,54
+346,Robert Jackson,The rookie,462
+347,Jennifer,The mysterious stranger,236
+348,Tracy,The mentor,285
+349,Zona,The love interest,61
+350,Fati,The sidekick,179
+351,Kimberly May,The anti-hero,155
+352,Andrew Bradford,The comic relief,24
+353,Nuni,The mentor,462
+354,Mary Duran,The sidekick,462
+355,Ryan Hall,The sidekick,66
+356,Jasmine,The mysterious stranger,42
+357,Jonathan Brooks,The loyal friend,155
+358,Captain Williamson,The protagonist,147
+359,Officer Estrada,The betrayer,356
+360,Christina,The betrayer,163
+361,Sehogido,The mysterious stranger,69
+362,Lija,The protagonist,292
+363,Timothy,The reluctant hero,330
+364,Aaron Arnold Jr.,The sidekick,174
+365,Major Moreno,The betrayer,234
+366,Buhule,The sidekick,69
+367,William Smith,The betrayer,362
+368,Detective Li,The antagonist,205
+369,Major Craig,The reluctant hero,463
+370,Renumoho,The villain,354
+371,Tekufa,The mysterious stranger,463
+372,Razi,The betrayer,164
+373,Linda,The anti-hero,64
+374,Officer Browning,The antagonist,463
+375,Brent Hernandez,The sidekick,213
+376,Detective Lee,The villain,147
+377,Remu,The villain,309
+378,Robin Adams,The mysterious stranger,253
+379,Major Sanders,The mentor,464
+380,Jared Cunningham,The antagonist,464
+381,Tahabo,A supporting character,259
+382,Gedo,The love interest,464
+383,Officer Branch,The comic relief,2
+384,Michael Abbott,The wise elder,351
+385,Desiree,The rookie,55
+386,Niredu,The wise elder,101
+387,Michele,The anti-hero,207
+388,Major Malone,The sidekick,22
+389,Agent Davis,The antagonist,135
+390,Juan Brown,The mysterious stranger,118
+391,Albert,The villain,62
+392,Gakokori,The love interest,360
+393,Senator Jackson,The love interest,4
+394,Mr. Richard Knight PhD,A supporting character,85
+395,Joseph Williams,The villain,66
+396,Jason,The reluctant hero,42
+397,Mamu,The mysterious stranger,6
+398,Stacy Alvarez,The anti-hero,17
+399,Detective Williams,The betrayer,308
+400,Charles,The mysterious stranger,206
+401,Sara,The loyal friend,82
+402,Agent Lam,The antagonist,126
+403,Anna,The loyal friend,389
+404,Antonio,The love interest,140
+405,Neva,The wise elder,83
+406,Senator Mcfarland,The loyal friend,247
+407,Leonard,The wise elder,198
+408,Laurie Goodwin,The antagonist,187
+409,Major Marquez,The mysterious stranger,34
+410,Pipivodu,A supporting character,52
+411,Professor Sanders,The villain,54
+412,Temugeva,The rookie,153
+413,Chase,The loyal friend,295
+414,Francisco,The comic relief,337
+415,Ruben Price,The betrayer,464
+416,Evelyn Campos,The anti-hero,286
+417,Donald,The mentor,253
+418,Vanessa,A supporting character,162
+419,Agent Ramsey,The sidekick,176
+420,Professor Mason,The mentor,254
+421,Terri,The rookie,270
+422,Captain Brown,The rookie,164
+423,Professor Kim,The anti-hero,143
+424,Mary,The wise elder,93
+425,Matthew,A supporting character,81
+426,Dr. Mack,The betrayer,306
+427,Jennifer Ayala,The antagonist,193
+428,Donald Riddle,The rookie,193
+429,Agent Henry,The loyal friend,65
+430,Bosotuli,The rookie,255
+431,Senator Kelly,The love interest,394
+432,Rodudi,A supporting character,30
+433,Seruje,The sidekick,91
+434,Shelley,The sidekick,260
+435,Officer Reynolds,The comic relief,308
+436,Erin,The loyal friend,265
+437,Professor Guerrero,The sidekick,267
+438,Christopher,The villain,19
+439,Rebecca Marquez,The mentor,416
+440,Gofi,The protagonist,244
+441,Major Miller,The betrayer,193
+442,Hame,The reluctant hero,423
+443,Agent Moore,The loyal friend,223
+444,Jennifer,The villain,414
+445,Lusobi,The antagonist,43
+446,Rokajivu,The sidekick,194
+447,Nancy Stewart,The protagonist,411
+448,Senator Rodriguez,The wise elder,118
+449,Tobefo,The comic relief,292
+450,Adam,The reluctant hero,9
+451,Officer Parker,The loyal friend,431
+452,Dapede,The wise elder,251
+453,Michael,The sidekick,163
+454,Professor Nelson,The comic relief,103
+455,Lazuzoga,A supporting character,271
+456,Cody Cole,The comic relief,201
+457,Officer Peters,The anti-hero,3
+458,Captain Russell,The love interest,67
+459,Dadabugi,The mysterious stranger,103
+460,Senator Johnson,The anti-hero,292
+461,Zita,A supporting character,16
+462,Officer Gomez,A supporting character,276
+463,Lozamosu,The betrayer,226
+464,Vilosabi,The sidekick,180
+465,Professor Davis,The comic relief,278
+466,Dr. George,The wise elder,273
+467,Vuvoju,The mysterious stranger,121
+468,James Carter,The wise elder,246
+469,Tizu,The loyal friend,145
+470,Kebu,The wise elder,57
+471,Bradley Santana,The love interest,188
+472,Vanessa Armstrong,The villain,352
+473,Major Jackson,A supporting character,101
+474,Jepisuzo,The reluctant hero,63
+475,Digiteje,The anti-hero,394
+476,Senator James,The anti-hero,216
+477,Hiroto,The sidekick,158
+478,Detective Taylor,The wise elder,339
+479,Kela,The anti-hero,153
+480,Agent Turner,The mentor,112
+481,Agent Snyder,The mysterious stranger,132
+482,Semuve,The reluctant hero,177
+483,Detective Brown,The antagonist,149
+484,Mugoli,The protagonist,420
+485,Professor Hamilton,The sidekick,110
+486,Kisejija,The betrayer,27
+487,Detective Fisher,A supporting character,2
+488,Mr. David Wright,The wise elder,386
+489,Colleen,The love interest,334
+490,Christina Rodriguez,The rookie,239
+491,Kevin,The rookie,68
+492,Stacy,The protagonist,94
+493,Manuel Brock,The comic relief,182
+494,Senator Rivera,The antagonist,243
+495,Matthew,The protagonist,208
+496,Lisa,The comic relief,235
+497,Jaleme,The mentor,386
+498,Valerie Taylor,The reluctant hero,148
+499,Travis Harris,The rookie,97
+500,Leon,The anti-hero,223
+501,Tracy Carter,The reluctant hero,399
+502,Heather,The comic relief,389
+503,Travis,The reluctant hero,6
+504,Dana Bennett,The betrayer,423
+505,Holibu,The protagonist,146
+506,Professor Velasquez,The reluctant hero,260
+507,Detective Long,The villain,336
+508,Suru,The mentor,394
+509,Daniel,The loyal friend,39
+510,Leslie Gardner,The sidekick,214
+511,Erin,The mysterious stranger,128
+512,Kihobemo,The loyal friend,260
+513,Agent Pierce,A supporting character,63
+514,Tamefe,The comic relief,127
+515,Julia Erickson,A supporting character,170
+516,Samuel,The villain,157
+517,Agent Carter,The protagonist,18
+518,Major Schwartz,The love interest,182
+519,Milovu,The mysterious stranger,0
+520,Rebecca Ortiz,The mentor,22
+521,Agent Porter,The protagonist,384
+522,Dana Hopkins,The villain,201
+523,Captain Espinoza,The comic relief,157
+524,Professor Mccormick,The rookie,385
+525,Officer Jones,The wise elder,235
+526,Vicki,The love interest,223
+527,Timothy,The villain,269
+528,Richard,The villain,158
+529,Major Hunter,The mysterious stranger,145
+530,Jikezefa,The anti-hero,247
+531,Neduvifu,The protagonist,90
+532,Samantha,The wise elder,195
+533,Heather,A supporting character,220
+534,Senator Stephens,The antagonist,344
+535,Krystal,The mysterious stranger,212
+536,Tari,The loyal friend,223
+537,Steven Herrera,The villain,389
+538,Danielle,The anti-hero,53
+539,Vidive,The villain,92
+540,Dr. Miller,The comic relief,117
+541,Dr. Mack,The mysterious stranger,363
+542,Diane,The wise elder,185
+543,Matthew Williams,The protagonist,392
+544,Dotudi,The reluctant hero,392
+545,Miss Jennifer Goodwin,The reluctant hero,378
+546,Lepi,A supporting character,42
+547,Tammy,The loyal friend,314
+548,Norino,The comic relief,275
+549,Adam Green,The rookie,227
+550,William,The rookie,368
+551,Professor Stone,A supporting character,366
+552,Gejobabi,The mentor,244
+553,Tuputono,The betrayer,156
+554,Beverly,The love interest,104
+555,Gulahu,The reluctant hero,421
+556,Jill Myers,The protagonist,249
+557,Bikajedo,The antagonist,412
+558,Leah Mason,The villain,345
+559,Alexander Garcia,The love interest,367
+560,Vernon Wilson,The comic relief,129
+561,Tuji,The loyal friend,4
+562,Brenda Collins,A supporting character,392
+563,Agent Gibson,The betrayer,121
+564,Officer Clark,The love interest,404
+565,Captain Webb,The rookie,255
+566,Thomas,The comic relief,9
+567,Detective Kim,The protagonist,309
+568,Heather,The rookie,236
+569,Sodemuno,The loyal friend,58
+570,Major Flores,The comic relief,211
+571,Kevin,The mentor,122
+572,Tosa,The love interest,162
+573,Lisa,The mentor,139
+574,Darin,The loyal friend,406
+575,Vepi,The comic relief,324
+576,Melinda,The comic relief,25
+577,Deborah,The mentor,275
+578,Erica,The sidekick,138
+579,William Sanchez,The reluctant hero,149
+580,Fetohu,The protagonist,156
+581,Major Thompson,The rookie,99
+582,Justin Mullen,The betrayer,227
+583,Jared Lopez,The love interest,108
+584,Danielle,The villain,408
+585,Ryan,The betrayer,397
+586,Detective Johnson,The reluctant hero,165
+587,Christina Vargas,The love interest,390
+588,Paul,The mysterious stranger,266
+589,Christine Goodwin,The mysterious stranger,189
+590,Zije,The comic relief,380
+591,Lindsey,The anti-hero,104
+592,Detective Brown,The comic relief,388
+593,Nalukone,The anti-hero,410
+594,Fisama,The reluctant hero,126
+595,Cristian,The sidekick,147
+596,Major Wiggins,The protagonist,395
+597,Jacob,The mysterious stranger,16
+598,Mark,The protagonist,191
+599,Major Ellis,The mentor,243
+600,Jose,The love interest,50
+601,Agent Huffman,The comic relief,162
+602,Allison,The villain,207
+603,Detective Fowler,The loyal friend,406
+604,Sirohena,A supporting character,273
+605,Candice,The mysterious stranger,117
+606,Tudi,The anti-hero,103
+607,Laurie Bailey,The betrayer,307
+608,Lisa Cervantes,The betrayer,26
+609,Elizabeth Mendez,The loyal friend,328
+610,Cesar Wilson,The comic relief,130
+611,Kevin,The betrayer,317
+612,Isaac,The antagonist,161
+613,Heather,The protagonist,321
+614,William,The anti-hero,147
+615,Dizuzo,The reluctant hero,89
+616,Sibibato,The anti-hero,137
+617,Biti,The mysterious stranger,191
+618,Detective Barnes,The protagonist,179
+619,Fofi,The anti-hero,325
+620,Devin,The love interest,296
+621,Patrick,The wise elder,105
+622,Officer Lopez,The mentor,110
+623,Nipe,The villain,153
+624,Cynthia,The mysterious stranger,407
+625,Heather,The mentor,267
+626,Zoe Peters,The rookie,146
+627,Charles Edwards MD,The antagonist,366
+628,Novasa,The protagonist,99
+629,Ian Smith,The mysterious stranger,376
+630,Derrick,The antagonist,72
+631,Mivifi,The reluctant hero,253
+632,Tracey Wagner,The love interest,393
+633,Troy,The reluctant hero,306
+634,Dadula,The reluctant hero,18
+635,Jennifer Larsen,A supporting character,156
+636,Dr. Burns,The love interest,46
+637,Christopher,The loyal friend,194
+638,Loha,The wise elder,404
+639,Anthony,The wise elder,384
+640,Tuminugi,The loyal friend,119
+641,Dorothy Hill,The anti-hero,46
+642,Dr. Medina,The antagonist,358
+643,Dumo,The wise elder,362
+644,Bokuri,The villain,25
+645,Gary,The sidekick,194
+646,Hovuno,The antagonist,205
+647,Agent Ellis,The mysterious stranger,109
+648,Pamela Dunn,The antagonist,415
+649,Captain Wilson,The comic relief,421
+650,Danny,The mysterious stranger,288
+651,Nefofe,The protagonist,144
+652,Senator Hampton,The sidekick,89
+653,Professor Morrow,A supporting character,341
+654,Rodney Williams,A supporting character,340
+655,Veveta,The comic relief,413
+656,Kimberly Fritz,The protagonist,185
+657,Ronald Potter,The sidekick,154
+658,Zachary Cole,The wise elder,391
+659,Major Bailey,The protagonist,30
+660,Major Montoya,The comic relief,316
+661,Xavier Rowe,The mysterious stranger,327
+662,Joel,The wise elder,362
+663,Lisa,The rookie,360
+664,Giku,The mentor,72
+665,Senator Matthews,A supporting character,395
+666,Michael Chen,A supporting character,424
+667,Polose,The loyal friend,205
+668,Charles Clark,The sidekick,322
+669,Agent Clark,The mysterious stranger,375
+670,Zojarofo,A supporting character,361
+671,Dr. Brown,The comic relief,18
+672,Major Bell,The loyal friend,260
+673,Senator Campbell,The sidekick,296
+674,Zegilome,The wise elder,259
+675,Amber,The villain,151
+676,Captain Morris,The comic relief,383
+677,Detective Padilla,The mysterious stranger,314
+678,Kemenola,The betrayer,212
+679,Fuvija,The wise elder,159
+680,Keith,The rookie,307
+681,Scott Duke,The mysterious stranger,214
+682,Jerelido,The betrayer,51
+683,Sogiloka,The mentor,185
+684,Erin,The mysterious stranger,70
+685,Durize,The villain,59
+686,Supotubu,The loyal friend,358
+687,Professor Davis,The antagonist,213
+688,Sydney,The rookie,316
+689,Captain Floyd,The rookie,184
+690,Wendy Camacho,The wise elder,274
+691,Rafobe,The antagonist,324
+692,Agent Martinez,The anti-hero,103
+693,Michelle,The villain,422
+694,Major Wright,The villain,94
+695,Jennifer,The sidekick,185
+696,Pam Lowe,The villain,198
+697,Kenneth Adams MD,The mentor,73
+698,Fugo,The sidekick,213
+699,Officer Hayes,The villain,120
+700,Cynthia,The anti-hero,321
+701,Safire,The mysterious stranger,313
+702,Doloda,The loyal friend,124
+703,Anna Robertson,The protagonist,232
+704,Professor Ramirez,The rookie,265
+705,Sharon,The reluctant hero,418
+706,Miguel,The anti-hero,177
+707,Stephanie,The anti-hero,94
+708,Mark,The sidekick,90
+709,Jupeho,A supporting character,136
+710,Bozoja,The villain,273
+711,Bajije,The mentor,192
+712,Raymond Oconnor,The wise elder,280
+713,Judy Beck,The loyal friend,232
+714,Michael,The sidekick,283
+715,Agent Brown,The villain,193
+716,Claudia Jordan,The mentor,138
+717,Mazenuzo,The comic relief,341
+718,Derrick Clayton,The sidekick,197
+719,Senator Morgan,The wise elder,165
+720,Becky,The betrayer,72
+721,Professor Knight,The rookie,105
+722,Todd,The sidekick,137
+723,Michael Williams,The love interest,389
+724,Professor Garcia,A supporting character,372
+725,Captain Bowers,The anti-hero,215
+726,Zegivo,The comic relief,216
+727,Sito,The mysterious stranger,413
+728,Steve,The anti-hero,369
+729,David,The villain,190
+730,Captain Mathews,A supporting character,58
+731,Senator Alexander,The wise elder,237
+732,Tyler Harris,The betrayer,125
+733,Dr. Barker,The villain,176
+734,David,The love interest,84
+735,Susopisi,The comic relief,126
+736,Hefavi,The protagonist,207
+737,Debra,The mentor,16
+738,Timothy Hill,The mentor,237
+739,Diamond,The anti-hero,197
+740,Captain Wright,The loyal friend,1
+741,Sovatafu,The wise elder,364
+742,Steven Martin,The mentor,392
+743,Dr. Sanders,The loyal friend,41
+744,Jipufoke,The mentor,98
+745,Michael Young,The villain,392
+746,Officer Rios,The betrayer,115
+747,April Woods,The villain,353
+748,Darrell Frazier,The loyal friend,56
+749,Albert,The love interest,41
+750,Major Dominguez,A supporting character,240
+751,Lisa,The loyal friend,130
+752,Vanessa,The betrayer,209
+753,Robert,The loyal friend,149
+754,Benjamin Reyes,The wise elder,171
+755,Detective Cross,The wise elder,10
+756,Curtis,The sidekick,302
+757,Detective Edwards,The wise elder,42
+758,Professor Ibarra,A supporting character,187
+759,Lage,The mysterious stranger,280
+760,Derrick,The love interest,318
+761,Kiara,The mysterious stranger,25
+762,Agent Mullins,The loyal friend,340
+763,Govoku,The rookie,275
+764,Ridufe,The comic relief,238
+765,Officer Anderson,The villain,281
+766,Vubafe,The mysterious stranger,227
+767,Nadotopa,The love interest,256
+768,Soku,The sidekick,147
+769,Officer Haney,The anti-hero,119
+770,Douglas,The wise elder,45
+771,Dedafi,The rookie,102
+772,Gaha,The villain,28
+773,Puja,The mysterious stranger,171
+774,Alyssa,The reluctant hero,292
+775,Captain Smith,The betrayer,156
+776,Professor Santos,The rookie,63
+777,Detective Alexander,The antagonist,215
+778,Captain Bowen,The protagonist,334
+779,Lujupufe,The mysterious stranger,350
+780,Brittany Jenkins,The protagonist,227
+781,Glenda,The villain,187
+782,Angelica Garcia,A supporting character,41
+783,Karen,The anti-hero,342
+784,Bemo,The betrayer,183
+785,Janet Richmond,The betrayer,122
+786,Geseduju,The comic relief,245
+787,Charles Hill,The mysterious stranger,111
+788,Juan Greene,The antagonist,366
+789,Officer Lawson,The reluctant hero,361
+790,Captain Maxwell,The comic relief,355
+791,Hannah,The rookie,253
+792,Melanie,The antagonist,210
+793,Elizabeth Holmes,The wise elder,347
+794,William,The villain,218
+795,Agent Adkins,The rookie,332
+796,Kenneth,The reluctant hero,8
+797,Rejifefi,A supporting character,296
+798,Steven Blevins,The wise elder,177
+799,Pumagi,The love interest,406
+800,Professor Simpson,The love interest,168
+801,Dr. Rodriguez,The betrayer,125
+802,Agent Porter,The anti-hero,233
+803,Brittney,The mysterious stranger,209
+804,Dekaso,The comic relief,208
+805,Vanessa Hatfield,The love interest,97
+806,Zedutibe,The sidekick,278
+807,Captain Peck,The comic relief,392
+808,Tuhisa,The loyal friend,64
+809,Scott Carroll,The protagonist,83
+810,Michael Farmer,The protagonist,278
+811,Agent Best,The protagonist,34
+812,Alice Jones,The loyal friend,186
+813,Lesupopu,The mysterious stranger,133
+814,Toto,The wise elder,329
+815,Jose,The mentor,69
+816,Antonio Mccormick,The mentor,392
+817,Lori Mason,The anti-hero,230
+818,Robert,The loyal friend,311
+819,Jacqueline,The anti-hero,29
+820,Major Miller,The wise elder,169
+821,Lisa Ramirez,The mentor,376
+822,Kadikefe,The reluctant hero,299
+823,Rozo,The wise elder,331
+824,Jorge Harris,The mentor,178
+825,Lindsey,The antagonist,188
+826,Jeanette Walters,The mysterious stranger,115
+827,Mary,The mysterious stranger,305
+828,Andrea Hale,A supporting character,100
+829,Teteko,A supporting character,336
+830,Captain Blair,The mysterious stranger,283
+831,Professor Mathis,The loyal friend,295
+832,Brandon Hamilton,The sidekick,425
+833,Tidoko,The mysterious stranger,251
+834,Lee Parker,The villain,428
+835,Nedisovi,A supporting character,65
+836,Captain Harmon,The mentor,335
+837,Barbara Zimmerman,The reluctant hero,267
+838,Carla Benton,The love interest,248
+839,Rachel Le,The protagonist,40
+840,Cameron Norman,The love interest,8
+841,Stephen Wise,The villain,323
+842,Major Johnson,The reluctant hero,312
+843,Lindsay,A supporting character,311
+844,Austin Joseph,The anti-hero,11
+845,Meke,The comic relief,339
+846,Detective Ray,The betrayer,333
+847,Jesse Ward,The wise elder,239
+848,Professor Porter,The anti-hero,430
+849,Holly Scott,A supporting character,429
+850,Dakota,The loyal friend,165
+851,Miranda Perez,The comic relief,389
+852,Amanda Roy,The reluctant hero,119
+853,Lumefe,The anti-hero,174
+854,Nija,The mentor,271
+855,Agent Sanchez,The villain,243
+856,Senator Ruiz,The loyal friend,146
+857,Patrick,The mysterious stranger,425
+858,Edward,A supporting character,300
+859,Shannon Tran,The reluctant hero,85
+860,Jutu,The sidekick,126
+861,Natalie Barnes,The sidekick,128
+862,Jason Cortez,The loyal friend,132
+863,Lufojeti,The love interest,429
+864,Digola,The antagonist,383
+865,Blake Watson,The reluctant hero,0
+866,Wayne,The reluctant hero,289
+867,Nirofavu,The antagonist,116
+868,Rachel,The rookie,203
+869,Zavi,The protagonist,379
+870,Gekaliko,The betrayer,15
+871,Major White,The mysterious stranger,74
+872,Officer Brock,The villain,33
+873,Agent Jarvis,The antagonist,13
+874,Stephanie,A supporting character,310
+875,John Campbell,A supporting character,116
+876,Erin Tran,A supporting character,119
+877,Mapiga,The anti-hero,4
+878,Agent Smith,The villain,346
+879,Senator Gonzalez,The mentor,117
+880,Elizabeth Dean,The antagonist,31
+881,Steven,The loyal friend,358
+882,Dr. Vargas,The love interest,271
+883,Captain Snyder,The antagonist,101
+884,Kendra,The sidekick,91
+885,Delokohi,The protagonist,331
+886,Vevake,The antagonist,257
+887,Giga,The protagonist,382
+888,Steven Hodges,The betrayer,322
+889,John,A supporting character,55
+890,Adam,The betrayer,242
+891,Favuza,The mentor,314
+892,David Reed,The protagonist,292
+893,Sherry Tapia,The love interest,313
+894,Femi,The antagonist,82
+895,Matthew Sweeney,The villain,52
+896,Ashley Moreno,A supporting character,252
+897,Pasobono,The rookie,165
+898,Naji,The reluctant hero,185
+899,John,The mentor,287
+900,Senator Vasquez,The reluctant hero,349
+901,Brian,The protagonist,369
+902,Wendy,The rookie,17
+903,Senator Dawson,The comic relief,267
+904,Fela,The comic relief,351
+905,Christopher,The comic relief,258
+906,Samantha,The rookie,195
+907,Phyllis,The rookie,343
+908,Mercedes Watson,The comic relief,286
+909,Senator Villegas,The anti-hero,116
+910,Visume,The comic relief,79
+911,Captain Miller,The protagonist,12
+912,Agent Davis,The protagonist,298
+913,Dr. Anderson,The loyal friend,168
+914,Navujuha,The antagonist,299
+915,Lori,The rookie,224
+916,Charles,The mentor,374
+917,Jessica Brandt,The loyal friend,398
+918,Joel,The wise elder,159
+919,Hihika,The wise elder,62
+920,Officer Green,The reluctant hero,411
+921,Robert Haynes,The mysterious stranger,89
+922,Captain Moss,The wise elder,200
+923,Louis,The betrayer,373
+924,Luhisibu,The antagonist,348
+925,Benjamin Harris,The love interest,368
+926,Kimberly,The protagonist,406
+927,Mizo,The love interest,306
+928,Brenda,The sidekick,149
+929,Eric,The reluctant hero,319
+930,Dr. Martin,The protagonist,425
+931,Steven,The wise elder,237
+932,Richard,The loyal friend,152
+933,Traci Clark,The betrayer,49
+934,Professor Parker,The sidekick,390
+935,Fimolome,A supporting character,328
+936,Joseph,The mysterious stranger,333
+937,Simahive,The mysterious stranger,273
+938,Agent Wilson,The rookie,293
+939,Eric,The comic relief,207
+940,Detective Parks,A supporting character,401
+941,Margaret,The mysterious stranger,350
+942,Amanda Huff,The mysterious stranger,280
+943,Buhozima,The reluctant hero,119
+944,Mark,The rookie,411
+945,David Kelly,The reluctant hero,287
+946,Midu,The love interest,204
+947,Officer Palmer,A supporting character,76
+948,Debbie Ewing,The betrayer,280
+949,Senator Johnson,The protagonist,415
+950,Agent Sullivan,The love interest,346
+951,Paul Wright,The sidekick,42
+952,Professor Murray,The mysterious stranger,322
+953,Brenda Smith,The protagonist,74
+954,Pohepi,The villain,49
+955,Tunofi,The betrayer,242
+956,Joharidu,The loyal friend,106
+957,Vickie Anderson,The mentor,61
+958,Jacqueline Mccoy,The sidekick,242
+959,Professor Newman,The antagonist,241
+960,Captain Aguilar,The reluctant hero,241
+961,Duva,The reluctant hero,109
+962,Robert Johnson,The sidekick,89
+963,Borahezi,The reluctant hero,95
+964,Defi,The sidekick,85
+965,Caleb,The love interest,225
+966,Vatukole,The mentor,394
+967,Rachel,The antagonist,310
+968,Carl Stein,The comic relief,80
+969,Dene,The protagonist,159
+970,Lize,The villain,156
+971,Maria,The antagonist,177
+972,Andrew Murray,The love interest,218
+973,Gary,The rookie,410
+974,Professor Berry,The villain,52
+975,Jennifer Johnson,The mentor,406
+976,Sikofe,The rookie,355
+977,Nino,The sidekick,228
+978,Felicia,The villain,170
+979,Daniel Lopez,The mentor,358
+980,Kojoku,The wise elder,97
+981,Stephen Johnson,A supporting character,194
+982,Danielle Phillips,The antagonist,217
+983,Major Jenkins,The loyal friend,57
+984,Andrea,The anti-hero,272
+985,Douglas Taylor,The betrayer,4
+986,Potosavo,The reluctant hero,31
+987,James,The villain,416
+988,Professor Wilkerson,The comic relief,168
+989,Lydia Pham,The anti-hero,256
+990,Laura,The antagonist,239
+991,Heji,The loyal friend,409
+992,Veronica,A supporting character,24
+993,Heather Stephens,The comic relief,153
+994,Dr. Jonathan Price,The rookie,100
+995,Goze,The mentor,332
+996,Professor White,The antagonist,59
+997,Pavamela,The anti-hero,244
+998,Zuza,The anti-hero,142
+999,Pogu,A supporting character,39
+1000,Daniel Huang,The reluctant hero,421
+1001,Amy Frey,The wise elder,313
+1002,Pamela Key,The loyal friend,286
+1003,Officer Dickson,The reluctant hero,141
+1004,Nusivo,The wise elder,153
+1005,Hila,The comic relief,193
+1006,Craig,The wise elder,39
+1007,Pami,The mysterious stranger,72
+1008,Diane,The protagonist,273
+1009,Nibimo,The betrayer,193
+1010,Detective Adams,The mentor,381
+1011,Fijugilo,The mysterious stranger,317
+1012,Kupozi,The rookie,311
+1013,Sylvia Brown,The love interest,332
+1014,Pisi,The loyal friend,262
+1015,Dr. Davies,The anti-hero,396
+1016,Jeffrey,The antagonist,244
+1017,Major Bradford,A supporting character,296
+1018,Heather Combs,A supporting character,369
+1019,Megan,The reluctant hero,295
+1020,Gregory,The betrayer,97
+1021,Renee Wolfe,The love interest,238
+1022,Alyssa Haynes,The villain,202
+1023,Kristy Hart,The reluctant hero,37
+1024,Agent Lopez,The mentor,35
+1025,Senator Travis,The anti-hero,313
+1026,Gabokani,The villain,425
+1027,Saza,The anti-hero,35
+1028,Officer Keith,A supporting character,344
+1029,Professor Vasquez,The mentor,57
+1030,John Davis,The comic relief,193
+1031,Daniel Fox,A supporting character,248
+1032,Aaron,The betrayer,331
+1033,Samantha,The rookie,98
+1034,James,The rookie,331
+1035,David,The mentor,66
+1036,Bibesage,The rookie,150
+1037,Jennifer,The wise elder,46
+1038,Sarah Morris,The love interest,216
+1039,Detective Johnson,The mysterious stranger,238
+1040,Major Willis,The reluctant hero,108
+1041,Rokiji,The villain,18
+1042,Major Stark,The wise elder,367
+1043,Sarah Valencia,The protagonist,69
+1044,Detective Yu,The mentor,369
+1045,Tom Foster,The villain,292
+1046,Eric Taylor,The sidekick,384
+1047,Officer Moore,The betrayer,315
+1048,Detective Fry,The rookie,183
+1049,Agent Conner,A supporting character,118
+1050,Susan,The reluctant hero,385
+1051,Carrie Novak,The loyal friend,11
+1052,Magiboso,The mentor,103
+1053,Major Steele,The comic relief,62
+1054,Buvuvohu,The sidekick,305
+1055,Sarah,The rookie,204
+1056,Nasulohe,The betrayer,315
+1057,Kristin,The mentor,282
+1058,Kevin Thompson,The villain,268
+1059,Kurt,The mysterious stranger,35
+1060,Captain Barker,The rookie,139
+1061,Professor Anderson,The love interest,34
+1062,Agent Daniel,The mysterious stranger,267
+1063,Major Rush,The loyal friend,14
+1064,Officer Fry,The mentor,295
+1065,Senator Myers,The betrayer,211
+1066,Traci Johnson DDS,The villain,375
+1067,Tracy Walker,The betrayer,172
+1068,Taylor Taylor,The villain,394
+1069,Julie,The anti-hero,247
+1070,William Jackson,The betrayer,0
+1071,Lopidegu,A supporting character,90
+1072,Nicole,The sidekick,144
+1073,Rogomaho,The loyal friend,238
+1074,Michael Fowler,The villain,343
+1075,Captain Tanner,The sidekick,81
+1076,Derek Wright,The protagonist,117
+1077,Jehevo,The loyal friend,212
+1078,Carlos,The villain,52
+1079,Brian Smith,A supporting character,298
+1080,Pupepuse,The comic relief,103
+1081,Nicholas Costa,The protagonist,190
+1082,Nicole,The mysterious stranger,427
+1083,Dr. Snyder,The reluctant hero,183
+1084,Agent Gray,The protagonist,18
+1085,Ashley Mendoza,The rookie,310
+1086,Michelle,The love interest,353
+1087,Detective Curtis,A supporting character,383
+1088,Carla Jones,The comic relief,52
+1089,Captain Singleton,The antagonist,101
+1090,Fernando Lynn,The mentor,191
+1091,Senator Jones,The mysterious stranger,148
+1092,Major Jackson,The reluctant hero,412
+1093,Nicholas,The sidekick,426
+1094,Huhepe,The protagonist,62
+1095,Jessica,The love interest,4
+1096,Amy,The love interest,89
+1097,Anna Wheeler,The wise elder,398
+1098,Christina,The antagonist,363
+1099,Dr. Webb,The comic relief,220
+1100,Dr. Johnson,The wise elder,137
+1101,Carmen Preston,The rookie,176
+1102,Brian Harris,The rookie,61
+1103,Michael Bowen,The protagonist,344
+1104,Deborah Campbell,The comic relief,59
+1105,Gavaki,The villain,93
+1106,John,The love interest,55
+1107,Kenneth Larsen,The mentor,100
+1108,Fitekuzu,The wise elder,48
+1109,Eric,The comic relief,369
+1110,Jeffrey Phillips,The anti-hero,15
+1111,Lindsay Gonzalez,The mentor,421
+1112,Christopher Carter,The loyal friend,363
+1113,Ryan Parker,The villain,218
+1114,Raymond,The wise elder,282
+1115,Tracy,The loyal friend,209
+1116,Agent Guerrero,The sidekick,275
+1117,Hadava,The villain,368
+1118,Christopher,The mysterious stranger,170
+1119,Kababe,The rookie,18
+1120,Cathy Mcclure,The reluctant hero,254
+1121,Jeremy Baker,The betrayer,225
+1122,Feta,The antagonist,236
+1123,Darrell Adams,The reluctant hero,243
+1124,Agent Brown,The villain,185
+1125,Detective Goodwin,The villain,361
+1126,Angelica Cooper,The antagonist,371
+1127,Amber,The betrayer,322
+1128,Leah Spencer,The betrayer,112
+1129,Officer Randall,The loyal friend,282
+1130,Major Cardenas,The mysterious stranger,31
+1131,Joseph Camacho,The antagonist,264
+1132,Stephen Alvarez,The protagonist,261
+1133,Christian,The rookie,249
+1134,Raven,The sidekick,63
+1135,Senator Klein,The wise elder,318
+1136,Professor Shaw,The sidekick,195
+1137,Captain Lester,The antagonist,419
+1138,Rokunu,The mysterious stranger,163
+1139,Hefuge,The mysterious stranger,420
+1140,Megan Oliver,The betrayer,106
+1141,David,The antagonist,328
+1142,Sevireho,The wise elder,261
+1143,Zoboge,The villain,360
+1144,Pire,The protagonist,375
+1145,Carrie Joyce,The mentor,151
+1146,Dr. Stanton,The mysterious stranger,190
+1147,Lindsey,The rookie,134
+1148,Professor Martinez,The comic relief,286
+1149,Rodney,The villain,282
+1150,Major Mcneil,A supporting character,170
+1151,Zachary Burton,The protagonist,23
+1152,Mary,The anti-hero,159
+1153,Hedusi,The sidekick,211
+1154,Jonathan,The sidekick,106
+1155,Dr. Bartlett,The anti-hero,105
+1156,Robin,The anti-hero,418
+1157,Kafaro,The villain,268
+1158,Sori,The sidekick,386
+1159,James Sanders,The villain,339
+1160,Donald Ellis,The antagonist,210
+1161,Buveva,The protagonist,310
+1162,Rachel Dean,The loyal friend,302
+1163,Agent Mills,The rookie,35
+1164,Nedejo,The betrayer,55
+1165,Vezuze,The villain,72
+1166,Senator Barnes,The antagonist,5
+1167,Charles Matthews,The loyal friend,113
+1168,Katherine,The protagonist,153
+1169,Officer Ayers,The betrayer,151
+1170,Officer Buckley,The mysterious stranger,418
+1171,Ashlee Mitchell,The protagonist,75
+1172,Amanda,The villain,303
+1173,Maurice,The betrayer,23
+1174,Kizo,The love interest,8
+1175,Robert,The antagonist,92
+1176,Rohu,The mysterious stranger,258
+1177,Professor Reyes,The loyal friend,115
+1178,Zaga,The loyal friend,116
+1179,Zasugi,The villain,332
+1180,Mr. Andrew Hill,The anti-hero,179
+1181,Lee Steele,The anti-hero,40
+1182,Setahivu,A supporting character,112
+1183,Benjamin,The antagonist,370
+1184,Zezimesu,The reluctant hero,152
+1185,Zikela,The comic relief,377
+1186,Detective Preston,The villain,124
+1187,Martin,A supporting character,236
+1188,Talovama,The mysterious stranger,260
+1189,John,The love interest,47
+1190,Julie,The wise elder,233
+1191,Officer Mccall,The reluctant hero,134
+1192,Penny,The mysterious stranger,267
+1193,Andrew,The anti-hero,296
+1194,Professor Roth,The loyal friend,260
+1195,Senator Turner,The wise elder,357
+1196,Tolepube,The anti-hero,93
+1197,John Horton,The protagonist,336
+1198,Dedi,The love interest,27
+1199,Captain Garcia,The mentor,357
+1200,Captain Melton,The betrayer,343
+1201,William Ramos,The mysterious stranger,120
+1202,Agent Petersen,The loyal friend,256
+1203,Jason Brewer,The sidekick,228
+1204,Zove,The betrayer,271
+1205,Jacob,The mysterious stranger,170
+1206,Tale,The mysterious stranger,249
+1207,Rodney Figueroa,The reluctant hero,84
+1208,Pomava,The protagonist,328
+1209,Sharon Nicholson,The mysterious stranger,49
+1210,Agent Robertson,The wise elder,312
+1211,Niza,The anti-hero,215
+1212,Erik,The loyal friend,300
+1213,Larry,The mentor,362
+1214,Duho,A supporting character,294
+1215,Brandy York,The comic relief,402
+1216,Alyssa Lee,The comic relief,322
+1217,Detective Whitaker,A supporting character,333
+1218,Mary,The wise elder,15
+1219,Dr. Wright,The sidekick,411
+1220,Gudagume,The wise elder,105
+1221,Thomas Bush,The loyal friend,225
+1222,Senator Hill,The loyal friend,156
+1223,Professor Colon,The loyal friend,64
+1224,Agent Wagner,A supporting character,330
+1225,Becky Johnson,The loyal friend,415
+1226,Nathan,The comic relief,313
+1227,Mujo,The reluctant hero,402
+1228,Brooke,The rookie,193
+1229,Officer Thompson,The sidekick,276
+1230,Agent Harrell,The loyal friend,56
+1231,Befumuri,The love interest,77
+1232,Brenda,The protagonist,51
+1233,Major Bailey,The reluctant hero,318
+1234,Steven Curry,The comic relief,331
+1235,Detective Barker,The protagonist,411
+1236,Senator Mitchell,The villain,23
+1237,Christopher Armstrong,The mentor,12
+1238,Tammie,The sidekick,241
+1239,Maria Byrd,The antagonist,405
+1240,Joseph,The loyal friend,366
+1241,Alejandro Deleon,The rookie,174
+1242,Alexa Buck,The love interest,32
+1243,Deborah,The betrayer,124
+1244,Jeto,The betrayer,277
+1245,Duguboro,The mysterious stranger,376
+1246,Dr. Burke,The antagonist,194
+1247,David Trujillo,The protagonist,284
+1248,Kevin,The loyal friend,299
+1249,Professor Rasmussen,The wise elder,424
+1250,Dawn,The reluctant hero,79
+1251,Major Coleman,The comic relief,334
+1252,Peramabi,The comic relief,84
+1253,Gregory King,The anti-hero,284
+1254,Michael Holloway,The rookie,191
+1255,Brian Hunt,The loyal friend,363
+1256,Sarah Brooks,The mysterious stranger,389
+1257,Lisa Evans,The sidekick,325
+1258,Arthur Mcneil,The mentor,122
+1259,Professor Davidson,The mentor,195
+1260,Pabosa,A supporting character,231
+1261,Michelle,A supporting character,185
+1262,Ligoloni,The protagonist,297
+1263,Jose,The antagonist,309
+1264,Stephanie Evans,The protagonist,263
+1265,Vafaluje,The mysterious stranger,101
+1266,Agent Hernandez,The comic relief,62
+1267,Kathy,A supporting character,118
+1268,Rachel,The love interest,374
+1269,Agent Trujillo,The antagonist,346
+1270,Leah,The rookie,398
+1271,Mary Becker,The betrayer,140
+1272,Vadulido,The mentor,183
+1273,Mary Bright,The love interest,131
+1274,Nageka,The antagonist,161
+1275,Professor Green,The reluctant hero,311
+1276,Robert,The sidekick,24
+1277,Mizolu,The mysterious stranger,270
+1278,Paul,The wise elder,405
+1279,Officer Johnson,The comic relief,83
+1280,Jean,The protagonist,70
+1281,Agent Armstrong,The loyal friend,281
+1282,James,The mysterious stranger,396
+1283,Negimi,The reluctant hero,382
+1284,Rinalu,The villain,133
+1285,Courtney Nichols,A supporting character,3
+1286,Susan Powers,The betrayer,411
+1287,Captain Romero,The reluctant hero,112
+1288,Megan,The mentor,153
+1289,Sherri White,The mysterious stranger,92
+1290,Carl Green,The reluctant hero,77
+1291,Pamela White,The betrayer,85
+1292,Gabriela Davis,The betrayer,167
+1293,Jibuvako,The anti-hero,362
+1294,Gunepajo,The reluctant hero,231
+1295,Captain Kelly,The villain,279
+1296,Elizabeth French,The comic relief,68
+1297,Dr. Rivera,The rookie,347
+1298,Jorge,The betrayer,118
+1299,Kelly,The loyal friend,146
+1300,Melissa,The villain,402
+1301,Thomas,A supporting character,406
+1302,Michelle,The mysterious stranger,315
+1303,Dajosi,The love interest,107
+1304,Terry Jones,The mentor,143
+1305,Agent Preston,The protagonist,311
+1306,Vincent,The anti-hero,359
+1307,Major Dillon,The villain,184
+1308,Dame,The antagonist,335
+1309,Detective James,The wise elder,365
+1310,Kenneth,The comic relief,76
+1311,Zadute,The mentor,129
+1312,Tepe,The sidekick,205
+1313,Senator Brown,The loyal friend,426
+1314,Basugire,A supporting character,252
+1315,Melissa,The antagonist,67
+1316,Agent Taylor,A supporting character,133
+1317,James,A supporting character,177
+1318,Professor Ortiz,The rookie,41
+1319,Ashley,The comic relief,223
+1320,Professor Knox,The villain,119
+1321,Jezaha,The rookie,373
+1322,Keda,A supporting character,225
+1323,Stephen,A supporting character,281
+1324,Mike Maxwell,The reluctant hero,64
+1325,Tony,The protagonist,138
+1326,Crystal,The mentor,399
+1327,Gregory,The anti-hero,194
+1328,Vibilefa,The love interest,34
+1329,Sasehejo,The betrayer,123
+1330,Govuhozu,The rookie,57
+1331,Captain Walters,The mysterious stranger,190
+1332,Senator Smith,The wise elder,342
+1333,Philip Jackson,The love interest,189
+1334,Gefobi,The love interest,203
+1335,Zifi,A supporting character,259
+1336,Zebutosu,The loyal friend,62
+1337,Katherine Gallagher,The antagonist,281
+1338,Gezituba,The reluctant hero,55
+1339,Ponidati,The comic relief,72
+1340,Christopher,The loyal friend,402
+1341,Muzavo,The antagonist,277
+1342,Kise,The loyal friend,209
+1343,Christina,The reluctant hero,340
+1344,Jennifer Sanford,The mentor,14
+1345,Hubaba,The wise elder,224
+1346,Andrew Gonzalez,The anti-hero,131
+1347,Adrian Morris,The comic relief,175
+1348,Martha,The mysterious stranger,338
+1349,Major Lee,The sidekick,29
+1350,Lori Wright,A supporting character,77
+1351,Vukikoto,The comic relief,272
+1352,Detective Steele,The rookie,292
+1353,Piva,The loyal friend,80
+1354,Nive,The anti-hero,423
+1355,Luvomu,The loyal friend,267
+1356,Gigajuri,The loyal friend,130
+1357,Maxwell,The antagonist,137
+1358,David,The anti-hero,10
+1359,Vazode,A supporting character,143
+1360,Bafegosa,The reluctant hero,247
+1361,Doko,The love interest,382
+1362,Professor Reyes,The wise elder,102
+1363,Carol Colon,The mysterious stranger,182
+1364,Zotele,The mysterious stranger,279
+1365,Earl Luna,The loyal friend,339
+1366,Caitlyn,The rookie,80
+1367,Bejate,The mentor,42
+1368,Matthew,The protagonist,195
+1369,Pamela,The wise elder,110
+1370,Wendy,The rookie,23
+1371,Steven Howard,The sidekick,152
+1372,Jacob,The rookie,366
+1373,Tamara Powell,A supporting character,113
+1374,Nicholas Anderson,The mentor,355
+1375,Papeza,The love interest,260
+1376,Leah Jackson,The mysterious stranger,182
+1377,Matthew Johnson,The reluctant hero,35
+1378,Dawn Nichols,The anti-hero,35
+1379,Officer Williams,The sidekick,64
+1380,Agent Vang,The wise elder,80
+1381,Ebony,The villain,358
+1382,Bakohipi,The anti-hero,13
+1383,Alicia Norris,The anti-hero,330
+1384,James Kelley,The anti-hero,393
+1385,Officer Wells,The antagonist,89
+1386,Detective Hernandez,The mysterious stranger,198
+1387,Viseke,The loyal friend,386
+1388,Senator Neal,The rookie,268
+1389,Bosefuko,The antagonist,6
+1390,Jojumapi,The sidekick,48
+1391,Elizabeth Stanley,The mysterious stranger,427
+1392,Agent Bates,The mentor,409
+1393,Larry Taylor,The comic relief,136
+1394,Professor Rivas,The anti-hero,266
+1395,Daniel,The villain,201
+1396,Officer Higgins,The love interest,275
+1397,Captain Wilson,The mysterious stranger,130
+1398,Daniel,The villain,9
+1399,Daniel,The love interest,53
+1400,James,The betrayer,289
+1401,Agent Gonzalez,The love interest,51
+1402,Jose,The betrayer,38
+1403,Alexandra,The betrayer,268
+1404,Captain Harris,The loyal friend,248
+1405,Elizabeth Williams,The antagonist,63
+1406,Daniel Fitzpatrick MD,The rookie,86
+1407,Batudase,The sidekick,380
+1408,Senator Smith,The reluctant hero,167
+1409,Senator Powers,A supporting character,362
+1410,Major Meadows,The love interest,114
+1411,Mary,The protagonist,73
+1412,Tubusu,The sidekick,105
+1413,Hirogate,The villain,361
+1414,Dr. Caldwell,The protagonist,145
+1415,Edward,The comic relief,144
+1416,Jorge Cummings,The sidekick,180
+1417,Detective Garcia,A supporting character,48
+1418,Agent Scott,The mentor,30
+1419,Monehoso,The comic relief,306
+1420,Jerry,The comic relief,395
+1421,Officer Hinton,The betrayer,8
+1422,Rihovo,A supporting character,348
+1423,Kenneth,The betrayer,342
+1424,Brett Thompson,The mysterious stranger,223
+1425,Agent Williams,The anti-hero,108
+1426,Jagogu,The villain,221
+1427,Robert Edwards,A supporting character,340
+1428,Giteto,The mysterious stranger,84
+1429,Senator Rodgers,The mentor,408
+1430,Dr. Davis,The comic relief,190
+1431,Amber Christian,The mysterious stranger,225
+1432,Elizabeth,The protagonist,334
+1433,George,The betrayer,102
+1434,Senator Howard,The betrayer,108
+1435,Marco Johns,The villain,428
+1436,Detective Davis,The sidekick,219
+1437,Detective Briggs,The sidekick,237
+1438,James Rivers,The comic relief,417
+1439,James Jefferson,The sidekick,239
+1440,Lauren,The wise elder,300
+1441,Deborah,The loyal friend,175
+1442,Officer Robles,The sidekick,162
+1443,Rifanozo,The mentor,98
+1444,Gohemopo,The rookie,361
+1445,Faha,The sidekick,311
+1446,Daniel,The sidekick,134
+1447,Detective Horton,The mysterious stranger,324
+1448,Major Brown,The mentor,84
+1449,Zateri,The comic relief,83
+1450,Sherri,A supporting character,72
+1451,Jason Garza,A supporting character,330
+1452,Leah,The rookie,46
+1453,Professor Gregory,The love interest,167
+1454,Howard,The comic relief,85
+1455,Ian Johnson,The antagonist,374
+1456,Sara Mcpherson,The reluctant hero,292
+1457,Debopati,The loyal friend,183
+1458,Thomas Rodriguez,The antagonist,259
+1459,Captain Jenkins,The antagonist,211
+1460,Jukele,The villain,276
+1461,Brandon,A supporting character,409
+1462,Jose,The protagonist,144
+1463,Michael Gregory,The rookie,206
+1464,Officer Saunders,The betrayer,349
+1465,Tukuva,The villain,291
+1466,Barbara,The mysterious stranger,42
+1467,Annette,The wise elder,340
+1468,Viratito,The mentor,268
+1469,Senator Levine,The anti-hero,411
+1470,Elizabeth,The loyal friend,401
+1471,Joseph Haynes,The villain,121
+1472,Officer Davis,The comic relief,336
+1473,Captain Stanley,The mentor,29
+1474,Gregory Rhodes,The protagonist,233
+1475,Paul,The sidekick,429
+1476,Senator Combs,The anti-hero,167
+1477,Victoria Brown,The mysterious stranger,400
+1478,Lobera,The loyal friend,44
+1479,Agent Schneider,The loyal friend,338
+1480,Samuel Christian,The anti-hero,213
+1481,Agent Booth,The comic relief,226
+1482,Kehanu,The betrayer,179
+1483,Kofa,The comic relief,170
+1484,Charles,The anti-hero,58
+1485,Detective Vasquez,The rookie,217
+1486,Major Allen,The love interest,394
+1487,Amber Walker,A supporting character,423
+1488,Dawn,The mentor,160
+1489,David Stevens,The rookie,9
+1490,Rikuzusi,The love interest,127
+1491,Dr. Solis,A supporting character,183
+1492,Scott West,The anti-hero,256
+1493,Jonathan Valdez,A supporting character,197
+1494,Jason Hawkins,The mentor,252
+1495,Captain Smith,The mysterious stranger,422
+1496,Bejufegu,The protagonist,290
+1497,Mopo,The mentor,182
+1498,Rubumi,The antagonist,37
+1499,Christopher,The protagonist,58
+1500,Major Munoz,The antagonist,361
+1501,Huki,The betrayer,99
+1502,Gake,The comic relief,85
+1503,Buja,The villain,123
+1504,Elizabeth Romero,The anti-hero,241
+1505,Jamie,The villain,27
+1506,Lumehada,The mysterious stranger,251
+1507,Tiffany Cox,The mentor,64
+1508,Lojanede,The betrayer,219
+1509,Brian,The antagonist,377
+1510,Jeffrey,The rookie,59
+1511,Behela,The wise elder,398
+1512,Justin Harvey,The comic relief,171
+1513,Thomas,The protagonist,318
+1514,Michelle Wilson,The wise elder,21
+1515,Zegunife,The love interest,162
+1516,Katherine,The villain,233
+1517,Glenn Gallegos,The rookie,229
+1518,Dr. Brandt,The protagonist,162
+1519,Captain Carter,The mysterious stranger,289
+1520,Michaela Williams,A supporting character,288
+1521,Mave,The loyal friend,365
+1522,Senator Martin,The mysterious stranger,72
+1523,Donald,The protagonist,153
+1524,Gikida,The villain,328
+1525,Litusihu,The wise elder,313
+1526,Jennifer,The anti-hero,330
+1527,Officer Griffith,The mysterious stranger,1
+1528,Zevaha,The antagonist,342
+1529,Daniel,The villain,102
+1530,Detective Carr,The anti-hero,13
+1531,Senator Lopez,The protagonist,230
+1532,Hobizune,The loyal friend,368
+1533,Sarah,The sidekick,358
+1534,Jim Harrington,The rookie,380
+1535,Tiso,The loyal friend,55
+1536,Jennifer,The wise elder,311
+1537,Officer Rodriguez,The comic relief,223
+1538,Professor Perry,The antagonist,228
+1539,Sara Chapman,The protagonist,420
+1540,Kelsey,A supporting character,359
+1541,Matthew Blanchard,The love interest,307
+1542,Jonathan Moreno,The villain,349
+1543,Brandon,The antagonist,22
+1544,Sara Webb,The wise elder,192
+1545,Sitizuza,The mentor,37
+1546,Tammy Thompson,The sidekick,138
+1547,Beth,The wise elder,47
+1548,Betty Hughes,The protagonist,243
+1549,Caroline,The rookie,365
+1550,Rudi,The sidekick,335
+1551,Dizoku,The anti-hero,177
+1552,Kathy Cruz,The mysterious stranger,7
+1553,Sydney Farmer,The betrayer,157
+1554,Professor Hill,The love interest,314
+1555,Tracy Chavez,The antagonist,69
+1556,Dennis,The anti-hero,225
+1557,Huti,The rookie,216
+1558,Robert,The wise elder,418
+1559,Holly,The anti-hero,370
+1560,Fovonaro,The mysterious stranger,79
+1561,Heho,The anti-hero,13
+1562,Mohatoze,The villain,202
+1563,Officer Goodman,The anti-hero,368
+1564,Officer Evans,The comic relief,290
+1565,Mezikavi,The anti-hero,201
+1566,Jacqueline,The comic relief,166
+1567,Officer Valencia,The villain,112
+1568,Babule,The wise elder,321
+1569,Taylor Chen,The anti-hero,51
+1570,James,The reluctant hero,332
+1571,Dr. Weber,The mentor,332
+1572,Kelly,The love interest,61
+1573,Dr. Reed,The loyal friend,41
+1574,Captain Chambers,The antagonist,63
+1575,Miss Tina Gordon,The villain,253
+1576,Captain Benson,A supporting character,419
+1577,Officer Morris,The reluctant hero,389
+1578,Darrell,The love interest,214
+1579,Detective Bell,The antagonist,388
+1580,Jidumese,A supporting character,155
+1581,Vofizelo,The protagonist,29
+1582,Dimi,The sidekick,33
+1583,Gajuzi,The reluctant hero,226
+1584,Mr. Michael Butler,The rookie,61
+1585,Luti,The protagonist,48
+1586,Captain Adkins,The sidekick,193
+1587,Maureen,A supporting character,400
+1588,Ryan Stokes,The rookie,118
+1589,Zevosu,The antagonist,350
+1590,Alexandra,The comic relief,77
+1591,Major Johnson,A supporting character,245
+1592,Dustin,The sidekick,240
+1593,Christina Christensen,The villain,290
+1594,Dustin King,The anti-hero,189
+1595,Fapesu,The comic relief,384
+1596,Mary,The loyal friend,270
+1597,Hannah,The villain,262
+1598,Kenneth,The villain,330
+1599,Vojavezo,The mysterious stranger,117
+1600,Karen,The love interest,343
+1601,Robert Garcia,The mentor,285
+1602,Vofefu,The rookie,192
+1603,Nemuhu,The sidekick,397
+1604,Dr. Parrish,The loyal friend,93
+1605,Captain Stevenson,The sidekick,252
+1606,Goredaju,The love interest,383
+1607,Captain Hancock,The loyal friend,318
+1608,Kristina Young,The antagonist,408
+1609,Rebecca Roberts,The love interest,367
+1610,Elizabeth,The betrayer,362
+1611,Dr. House,The sidekick,412
+1612,Tyler Daugherty,The mentor,1
+1613,Bimije,The mysterious stranger,292
+1614,Larry,The love interest,319
+1615,Senator Arnold,The wise elder,197
+1616,Alexander,The mysterious stranger,313
+1617,Marc Norman,The comic relief,102
+1618,Sandra Pruitt,The mentor,207
+1619,Janet,The protagonist,243
+1620,Agent Holland,The loyal friend,294
+1621,Dr. Fischer,The villain,86
+1622,Lindsey Parsons,The antagonist,352
+1623,Kunefobi,The mentor,236
+1624,Nota,The mysterious stranger,311
+1625,Elizabeth Thompson,The reluctant hero,367
+1626,Senator Fleming,The betrayer,124
+1627,Christopher Palmer,A supporting character,328
+1628,Nicholas,The anti-hero,277
+1629,Bidaketi,The mentor,259
+1630,Senator Patterson,The comic relief,259
+1631,Angela,The protagonist,271
+1632,Officer Anderson,The sidekick,60
+1633,Agent Silva,The anti-hero,116
+1634,Dr. Scott,The rookie,272
+1635,Major Rivera,The reluctant hero,219
+1636,Brittney Hernandez,The anti-hero,316
+1637,Agent Morris,A supporting character,52
+1638,Major Williams,The rookie,60
+1639,Sarah,The antagonist,382
+1640,Zojupoka,The wise elder,101
+1641,Christina,The comic relief,233
+1642,Officer Stanley,The villain,279
+1643,Tracy,The love interest,407
+1644,Ashley,The wise elder,147
+1645,Michael,The betrayer,365
+1646,Kristen,The mentor,2
+1647,Louis,The comic relief,331
+1648,Jeffrey,The rookie,405
+1649,Ivan,The sidekick,425
+1650,Jonathan Perry,The anti-hero,342
+1651,Anna Walker,A supporting character,342
+1652,Captain Lewis,The mysterious stranger,403
+1653,Isaac Robinson,The loyal friend,241
+1654,Major Goodwin,The comic relief,125
+1655,Senator Moreno,The mysterious stranger,69
+1656,Captain Barajas,The loyal friend,85
+1657,Madison,The antagonist,89
+1658,Tina,A supporting character,303
+1659,Michael Griffin,The loyal friend,122
+1660,Agent Conway,The wise elder,385
+1661,Christina,The love interest,407
+1662,Tina Fleming,The sidekick,299
+1663,Thomas Landry,The mysterious stranger,11
+1664,Suzi,The villain,387
+1665,Captain Cruz,The betrayer,242
+1666,Sagiha,The love interest,398
+1667,Amber,The protagonist,177
+1668,Kupi,The love interest,183
+1669,Justin,The loyal friend,166
+1670,Rhonda,The antagonist,221
+1671,Lynn,The reluctant hero,71
+1672,Simeroke,The comic relief,203
+1673,Zino,The mysterious stranger,345
+1674,Major Brooks,The wise elder,70
+1675,Jill Williams,The anti-hero,57
+1676,Cheryl Palmer,The villain,46
+1677,Kete,The anti-hero,209
+1678,Davenute,The loyal friend,233
+1679,Carol Huber,The love interest,319
+1680,Senator Medina,The comic relief,13
+1681,Detective Smith,The villain,400
+1682,Cameron,The comic relief,351
+1683,Dr. Santiago,The mysterious stranger,324
+1684,Kim,The villain,353
+1685,Sufu,A supporting character,145
+1686,Michelle,The comic relief,270
+1687,Ribohi,The villain,349
+1688,Roger,The reluctant hero,315
+1689,Kime,The mysterious stranger,28
+1690,Dalton,The mysterious stranger,285
+1691,Michele Cherry,The antagonist,123
+1692,Maria Case,The mysterious stranger,374
+1693,Nefatinu,The mysterious stranger,85
+1694,Julie,The comic relief,410
+1695,Hemi,The wise elder,131
+1696,Eric,A supporting character,58
+1697,Stephen,A supporting character,333
+1698,Brandon Brown,The comic relief,106
+1699,Detective Bauer,The mysterious stranger,105
+1700,Hogage,The love interest,110
+1701,Laura Perez,The wise elder,406
+1702,Dr. Green,The villain,35
+1703,Tubazi,The reluctant hero,177
+1704,Jiza,The rookie,382
+1705,Pirefa,The wise elder,30
+1706,Mark Hamilton,The love interest,310
+1707,Agent Smith,The protagonist,301
+1708,Emily,A supporting character,233
+1709,Margaret Montgomery,The rookie,65
+1710,Dr. Avila,A supporting character,269
+1711,Mercedes Jones,The rookie,0
+1712,Officer Reilly,The reluctant hero,4
+1713,Richard Turner,The protagonist,135
+1714,Preston Kim,The comic relief,95
+1715,Randall,A supporting character,79
+1716,Captain Guerrero,The villain,241
+1717,Dr. Wells,The antagonist,54
+1718,Officer Ferguson,The sidekick,418
+1719,Puva,The antagonist,46
+1720,Senator Taylor,A supporting character,287
+1721,Robert Gardner,The mysterious stranger,140
+1722,Officer Choi,The anti-hero,141
+1723,Jejezodi,The antagonist,168
+1724,Michael Sloan,The villain,222
+1725,Major Norton,The wise elder,260
+1726,Detective Daniel,The anti-hero,146
+1727,Captain Brooks,The wise elder,97
+1728,Sosohozo,The love interest,215
+1729,Agent Herring,The protagonist,417
+1730,Kristen Martinez,The protagonist,354
+1731,Gajezopo,The comic relief,23
+1732,Kyle Medina,The sidekick,199
+1733,Agent Arroyo,The protagonist,59
+1734,Kevin,The mysterious stranger,80
+1735,Detective Goodman,The loyal friend,22
+1736,Hailey Gutierrez,The mentor,149
+1737,Officer Brewer,The loyal friend,417
+1738,Candace Walker,The antagonist,367
+1739,Officer Davenport,The comic relief,255
+1740,Christopher Marsh,The betrayer,362
+1741,Melissa,The love interest,217
+1742,Officer York,The reluctant hero,240
+1743,Bugise,A supporting character,22
+1744,Mirupidi,The betrayer,109
+1745,Officer Randolph,The anti-hero,371
+1746,Julia Dunn MD,The love interest,236
+1747,Officer Jones,The antagonist,325
+1748,Corey,The mentor,201
+1749,Katelyn Rivera,The sidekick,24
+1750,Tohevozi,The comic relief,83
+1751,David,The wise elder,116
+1752,Ariel Harvey,The betrayer,275
+1753,Officer Mccullough,The mysterious stranger,44
+1754,Jerry Jensen,The mentor,376
+1755,Soka,The sidekick,19
+1756,Jitilo,A supporting character,283
+1757,Kevin Cunningham,The sidekick,312
+1758,Eugene Patterson,The loyal friend,275
+1759,Adam,The reluctant hero,72
+1760,Daniel Singh,The villain,361
+1761,Ryan Taylor,The loyal friend,157
+1762,Guhumose,The mysterious stranger,74
+1763,Officer Quinn,A supporting character,427
+1764,Julie Howard,The betrayer,295
+1765,Kevin,The love interest,234
+1766,Casey Obrien,The villain,427
+1767,Tefubalu,The reluctant hero,63
+1768,Shannon Taylor,The rookie,77
+1769,Deborah Mercado,The sidekick,307
+1770,Fote,The loyal friend,270
+1771,Dr. Jones,The wise elder,101
+1772,Agent Jones,The sidekick,204
+1773,Andrew,The love interest,365
+1774,Detective Hunter,The anti-hero,194
+1775,Senator Johnson,The rookie,339
+1776,Jennifer Lawrence,The mentor,114
+1777,Rebecca,A supporting character,50
+1778,Professor Arnold,The protagonist,340
+1779,Yvonne Kennedy,The love interest,400
+1780,Officer Rowe,The mentor,271
+1781,Michael,The mysterious stranger,420
+1782,Agent Walker,A supporting character,372
+1783,Morgan Carter,The mentor,103
+1784,Senator Marshall,The protagonist,135
+1785,William,The protagonist,38
+1786,Defonude,The antagonist,219
+1787,Hizeza,The rookie,105
+1788,Nalumija,The mysterious stranger,180
+1789,Jonathan Bates,The reluctant hero,31
+1790,Geferufi,The villain,297
+1791,Senator Charles,The villain,264
+1792,Lindsay,The love interest,373
+1793,Christina,The betrayer,291
+1794,Officer Martin,The comic relief,367
+1795,Willie,The mysterious stranger,376
+1796,Officer Griffin,The villain,12
+1797,Dosa,The antagonist,234
+1798,Senator White,The villain,179
+1799,Stacy,The mentor,204
+1800,Captain Hopkins,The anti-hero,314
+1801,Nancy Webb,The comic relief,239
+1802,Daniel Freeman,The sidekick,277
+1803,Jacob Williams,The loyal friend,392
+1804,Senator Clark,The comic relief,113
+1805,Zuke,The anti-hero,270
+1806,Rebecca,The villain,65
+1807,Moje,The betrayer,404
+1808,Vimotu,The mysterious stranger,283
+1809,Michael,A supporting character,421
+1810,Jesse Williams,The mysterious stranger,120
+1811,Zaze,The villain,378
+1812,Professor Hooper,The betrayer,292
+1813,Lupe,The antagonist,295
+1814,Michael Boyd,The rookie,6
+1815,Sodife,The love interest,329
+1816,Maria,The reluctant hero,2
+1817,Deborah Stephens,The loyal friend,326
+1818,Glenn,The rookie,198
+1819,Desiree,The villain,172
+1820,Major Diaz,The wise elder,284
+1821,Jema,The mentor,354
+1822,Major Valdez,The mysterious stranger,238
+1823,Professor Houston,The wise elder,13
+1824,Jamie Solomon,The wise elder,159
+1825,Lidi,The sidekick,277
+1826,Heather Parrish,The protagonist,115
+1827,Professor Tucker,The betrayer,324
+1828,Dr. Olson,The love interest,137
+1829,Zapamano,The comic relief,6
+1830,Tujihi,The villain,29
+1831,Cassandra,The love interest,74
+1832,Pogule,The betrayer,258
+1833,Warren,A supporting character,365
+1834,Christopher Jones,The antagonist,146
+1835,Christine Lopez,A supporting character,128
+1836,Ragifagi,The rookie,415
+1837,Zipuzu,A supporting character,114
+1838,Puvarinu,The sidekick,50
+1839,Michael,A supporting character,42
+1840,Bavosoka,The mysterious stranger,286
+1841,Major Love,The reluctant hero,381
+1842,Dr. Wilson,The protagonist,5
+1843,Nifuvuse,The mysterious stranger,188
+1844,Robert Cortez,A supporting character,130
+1845,Senator Olson,The anti-hero,212
+1846,Daniel Martin,The anti-hero,34
+1847,Alison Williams,The love interest,212
+1848,Dutuvulu,The wise elder,287
+1849,Candace Soto,The reluctant hero,316
+1850,Dr. Williams,The villain,90
+1851,Savomipo,The sidekick,51
+1852,Detective Armstrong,A supporting character,339
+1853,David White,The mysterious stranger,244
+1854,Detective Mullen,The protagonist,238
+1855,Hevodeli,The loyal friend,107
+1856,Kristy Smith,The mentor,326
+1857,Gesu,The antagonist,360
+1858,Detective Ball,A supporting character,351
+1859,Detective Stanley,The betrayer,163
+1860,Dr. Campbell,The mysterious stranger,100
+1861,Jerry Haney,The wise elder,377
+1862,Michelle,The reluctant hero,79
+1863,George,The rookie,83
+1864,Hikoka,The villain,43
+1865,Maria,The loyal friend,230
+1866,Rebecca Hoover,The sidekick,147
+1867,Matthew Baker,A supporting character,217
+1868,Jennifer,The betrayer,76
+1869,Nukare,The mysterious stranger,177
+1870,Matthew,The love interest,48
+1871,Dr. Chavez,The rookie,170
+1872,Professor Garza,The protagonist,5
+1873,Jerry,The villain,383
+1874,Losato,The love interest,9
+1875,Nusakogo,The anti-hero,137
+1876,Leri,The comic relief,297
+1877,Dr. Cruz,The antagonist,201
+1878,Major Rodriguez,The wise elder,217
+1879,Officer Harris,The mentor,13
+1880,Professor Heath,The mentor,78
+1881,Kazahu,The anti-hero,392
+1882,Captain Gordon,The sidekick,202
+1883,Chase Davis,The rookie,81
+1884,Lucas Williams,The betrayer,178
+1885,Kathy Wilson,The protagonist,61
+1886,Tifo,The rookie,171
+1887,Joleki,The love interest,240
+1888,Mr. Larry Carey,The protagonist,317
+1889,Patricia Banks,The protagonist,336
+1890,Alexa,The wise elder,43
+1891,Andrew Moreno,The mysterious stranger,310
+1892,Robert Clarke,The antagonist,130
+1893,Patrick,The comic relief,213
+1894,Brianna,The reluctant hero,89
+1895,Pam Horton,The mysterious stranger,155
+1896,Connor,The mentor,104
+1897,Senator Anderson,The rookie,121
+1898,David Trevino,The rookie,396
+1899,Pumeki,A supporting character,128
+1900,Shawn Ortiz,The mentor,251
+1901,Michael Clarke,The comic relief,381
+1902,Dikoko,A supporting character,218
+1903,Sija,The wise elder,343
+1904,Sifo,A supporting character,27
+1905,Zofo,The reluctant hero,24
+1906,Kofobudu,The antagonist,69
+1907,Senator Lane,The protagonist,401
+1908,Babu,The rookie,110
+1909,Gumipa,The wise elder,76
+1910,Adam Pena,The anti-hero,290
+1911,Rapedo,The anti-hero,248
+1912,Gwendolyn,The protagonist,337
+1913,Segavito,The reluctant hero,51
+1914,Officer Stewart,The rookie,340
+1915,Major Cox,The protagonist,236
+1916,Matthew King,The sidekick,186
+1917,Professor Wyatt,The betrayer,185
+1918,Jahiva,The protagonist,226
+1919,Hulonufo,The rookie,62
+1920,Senator Henderson,The antagonist,384
+1921,Hugibuhu,The protagonist,290
+1922,Michael,The villain,102
+1923,Tulu,The villain,275
+1924,Bumo,The protagonist,178
+1925,Dr. Hill,The comic relief,174
+1926,Nicole Gutierrez,The love interest,273
+1927,Toguvuju,The reluctant hero,239
+1928,Karen Wood,The protagonist,134
+1929,Angela,The villain,373
+1930,Eric Cooper,The villain,112
+1931,Nancy Wyatt,The love interest,200
+1932,Donna,The protagonist,239
+1933,Julie,The rookie,62
+1934,Michael Martin,The reluctant hero,320
+1935,Professor Lewis,The villain,66
+1936,Richard,The betrayer,376
+1937,Joshua Terry,The betrayer,364
+1938,Caitlyn Oconnell,The antagonist,75
+1939,Zojodoja,The comic relief,202
+1940,Major Smith,The sidekick,340
+1941,Charles Frost,The rookie,326
+1942,Ryan,The sidekick,71
+1943,Caleb,The loyal friend,389
+1944,Bobby Johnson,The wise elder,348
+1945,Patrick,The sidekick,205
+1946,Miss Kelly Dawson,The antagonist,396
+1947,Captain Harper,The loyal friend,195
+1948,Niva,A supporting character,204
+1949,Vuda,A supporting character,327
+1950,Samantha Bowman,The loyal friend,328
+1951,Bisi,The antagonist,250
+1952,Dakota Sandoval,The protagonist,103
+1953,Linda,The reluctant hero,109
+1954,Andrew Greene,The mysterious stranger,212
+1955,Major Black,The mysterious stranger,26
+1956,Gejegoku,The anti-hero,408
+1957,Kahizo,The mysterious stranger,46
+1958,Christopher Johnson,The wise elder,203
+1959,John,The mysterious stranger,67
+1960,Felomupo,The protagonist,227
+1961,Aaron,The love interest,16
+1962,Zachary Chan,The anti-hero,306
+1963,James Willis,The wise elder,155
+1964,Agent Holmes,The villain,320
+1965,Jillian,The mentor,152
+1966,Brandon Mitchell,The love interest,43
+1967,Suzanne Bailey,The loyal friend,390
+1968,Sylvia,The rookie,346
+1969,Hihada,The protagonist,181
+1970,Detective Hill,The love interest,317
+1971,Mizoro,The protagonist,225
+1972,Cheyenne Spears,The mysterious stranger,134
+1973,Debbie Russell,The reluctant hero,350
+1974,Daniel,A supporting character,176
+1975,Edward Arroyo,The villain,198
+1976,Tina Walter,The antagonist,44
+1977,Lisa,The mysterious stranger,34
+1978,Vumepoja,The mysterious stranger,385
+1979,Agent Andrews,The loyal friend,298
+1980,Tracy Hart,The sidekick,128
+1981,Kayla,The antagonist,259
+1982,Katherine,The mysterious stranger,278
+1983,Nojo,The antagonist,385
+1984,Siderago,The love interest,272
+1985,Nuni,A supporting character,37
+1986,Hunakuja,The sidekick,417
+1987,Susan,The protagonist,35
+1988,Joe Matthews,The mentor,324
+1989,Anthony,The antagonist,150
+1990,Pohemo,The love interest,191
+1991,Captain Wilson,The loyal friend,252
+1992,Carlos,The wise elder,6
+1993,Cynthia,The antagonist,365
+1994,Sijizasa,The betrayer,373
+1995,Bepuke,The love interest,106
+1996,Major Gamble,The wise elder,122
+1997,Erica,The reluctant hero,100
+1998,Jerry,The reluctant hero,281
+1999,Tyler Black,The comic relief,239
+2000,Ronnie Wright,The protagonist,227
+2001,Subuputi,The comic relief,318
+2002,Firisoka,The antagonist,76
+2003,Michael Nicholson,The mysterious stranger,13
+2004,Gena,The mentor,168
+2005,Charles,The rookie,198
+2006,Karen Gomez,The protagonist,196
+2007,Luharovo,The mysterious stranger,273
+2008,Debra Valentine,The villain,263
+2009,Peho,The loyal friend,197
+2010,Senator Vega,The mysterious stranger,318
+2011,Kathryn Gonzalez,The betrayer,32
+2012,Shelley Clark,The comic relief,199
+2013,Dr. Harris,The mentor,38
+2014,Zotuvo,The loyal friend,21
+2015,John,The loyal friend,291
+2016,Brittney Rodriguez,The wise elder,163
+2017,Dr. Mora,The anti-hero,358
+2018,Dr. Lowe,The antagonist,299
+2019,Ruzuda,The sidekick,409
+2020,Captain Alvarado,The rookie,349
+2021,Pamela Weaver,The anti-hero,315
+2022,Bobby,A supporting character,301
+2023,Agent Olson,The anti-hero,370
+2024,Katherine Galloway,The rookie,343
+2025,Vujejome,The sidekick,378
+2026,Major Prince,The mentor,82
+2027,Katherine Joyce,The antagonist,145
+2028,Officer Moon,The villain,412
+2029,Tigasato,The rookie,374
+2030,Senator Ramirez,The wise elder,54
+2031,Professor Walker,The love interest,324
+2032,Fapa,The reluctant hero,390
+2033,Barbara,The mentor,244
+2034,Robert Mendoza,The antagonist,429
+2035,Amber,The mentor,427
+2036,Jennifer Parks,The mysterious stranger,118
+2037,Gregory,The villain,418
+2038,Tiffany,The betrayer,177
+2039,Helen,The anti-hero,375
+2040,Michael Smith,The mentor,247
+2041,Tugesamu,The comic relief,429
+2042,Bilihudo,The protagonist,4
+2043,Jason,The betrayer,156
+2044,Major Carpenter,The wise elder,424
+2045,Officer Nguyen,The villain,272
+2046,Lovige,The reluctant hero,185
+2047,Captain Salazar,The loyal friend,125
+2048,Agent Green,The villain,259
+2049,Detective Dunn,The loyal friend,359
+2050,John Austin,A supporting character,92
+2051,Detective Diaz,The villain,26
+2052,Victor,The wise elder,63
+2053,Jason,The mysterious stranger,327
+2054,Captain Haynes,A supporting character,100
+2055,Nathan,A supporting character,336
+2056,Melissa,The antagonist,229
+2057,Christopher Anderson,The sidekick,392
+2058,Barbara,The villain,311
+2059,Officer Perez,A supporting character,269
+2060,Cory,The anti-hero,289
+2061,David Reynolds,The rookie,87
+2062,Officer James,A supporting character,135
+2063,Senator Thomas,The anti-hero,233
+2064,Susan,The anti-hero,64
+2065,Professor Hernandez,The reluctant hero,107
+2066,Cassandra Porter,The comic relief,226
+2067,Roma,A supporting character,45
+2068,Sarah Holmes DDS,The mysterious stranger,8
+2069,Detective Floyd,The villain,215
+2070,Captain Evans,The loyal friend,420
+2071,Fuseda,A supporting character,307
+2072,Laura Ross,The mentor,69
+2073,Amy Cervantes,The comic relief,79
+2074,Thomas,The villain,191
+2075,Professor Soto,The sidekick,110
+2076,George Ward,The wise elder,250
+2077,Ann,The wise elder,305
+2078,Sarah,The loyal friend,412
+2079,Agent Scott,The protagonist,412
+2080,Bryan Dillon,The anti-hero,257
+2081,Fetapahu,The villain,425
+2082,Dr. Mccarty,The reluctant hero,81
+2083,Major Gonzalez,A supporting character,60
+2084,Nunibe,The mentor,196
+2085,Officer Johnston,The mentor,308
+2086,Fejirepo,The loyal friend,3
+2087,Hapupo,A supporting character,166
+2088,Carrie Deleon,A supporting character,220
+2089,Michael,The mentor,327
+2090,Midozano,The antagonist,375
+2091,Katherine Doyle,The comic relief,388
+2092,Major Preston,A supporting character,306
+2093,Vigijaho,The betrayer,342
+2094,Vasida,The betrayer,111
+2095,Detective James,The villain,308
+2096,Boba,A supporting character,186
+2097,Detective Mitchell,The rookie,349
+2098,Lepo,A supporting character,12
+2099,Kebogala,The villain,267
+2100,Brianna Jackson,The wise elder,277
+2101,Senator Morton,The wise elder,295
+2102,Sagani,The anti-hero,160
+2103,Mark Duncan,The betrayer,225
+2104,Captain Sweeney,The wise elder,120
+2105,Christopher Perez,A supporting character,326
+2106,Senator Stewart,The reluctant hero,241
+2107,Kelly,The sidekick,135
+2108,Joseph,The protagonist,182
+2109,Officer Newman,The comic relief,15
+2110,Dr. Nelson,The mentor,427
+2111,Professor Wallace,The anti-hero,392
+2112,Michelle,The loyal friend,313
+2113,Michael,The loyal friend,146
+2114,Tracie Gutierrez,The wise elder,125
+2115,Ivan,The anti-hero,133
+2116,Officer Johnson,The betrayer,17
+2117,Detective Luna,The rookie,156
+2118,Professor Stanley,The anti-hero,37
+2119,Captain Shepard,The protagonist,142
+2120,Jackie,The anti-hero,213
+2121,Officer Miller,The loyal friend,175
+2122,Mohafo,The love interest,312
+2123,Garrett,The anti-hero,21
+2124,Dakota,The betrayer,384
+2125,Caleb,The loyal friend,16
+2126,Kimberly Johnson,The comic relief,130
+2127,Fuge,The reluctant hero,208
+2128,Phillip Miller,The villain,255
+2129,Detective Baker,The mysterious stranger,277
+2130,Captain Moore,The betrayer,355
+2131,Temohilo,The protagonist,142
+2132,Stacey Parker,The love interest,279
+2133,John,The betrayer,137
+2134,Justin,The mysterious stranger,291
+2135,Courtney,The mentor,74
+2136,David,The love interest,398
+2137,Mary,The antagonist,249
+2138,Fudubise,The loyal friend,417
+2139,Jafo,The protagonist,63
+2140,Matthew Dalton,The villain,111
+2141,John Proctor,The reluctant hero,276
+2142,Dr. Fernandez,The antagonist,185
+2143,Dr. Nelson,The loyal friend,88
+2144,Wayne Wolfe,The loyal friend,351
+2145,Kyle Welch,The reluctant hero,229
+2146,Cynthia,The wise elder,345
+2147,Anne,A supporting character,228
+2148,Dr. Mills,The antagonist,63
+2149,Danielle,The betrayer,251
+2150,Officer Collins,The sidekick,243
+2151,Michael,The betrayer,70
+2152,Amber,The anti-hero,222
+2153,Jessica Diaz,The antagonist,60
+2154,Eric Smith,The anti-hero,97
+2155,Lisa,The mysterious stranger,140
+2156,Melanie,The mentor,325
+2157,Maurice,The reluctant hero,205
+2158,Adam Weeks,The mysterious stranger,221
+2159,Karen Smith,The reluctant hero,403
+2160,Russell,The reluctant hero,4
+2161,Zahore,The rookie,258
+2162,David Smith,A supporting character,342
+2163,Major Brooks,The comic relief,99
+2164,Robert,The anti-hero,113
+2165,Ann,The comic relief,363
+2166,Christopher Mclaughlin,The loyal friend,94
+2167,Professor Price,The villain,18
+2168,Dennis Henderson,The anti-hero,60
+2169,John,The villain,22
+2170,Detective Duran,The anti-hero,428
+2171,Rhonda Cohen,The antagonist,95
+2172,Senator Mitchell,The antagonist,60
+2173,Rozelu,The rookie,204
+2174,Vapi,The mentor,425
+2175,Dosa,The rookie,90
+2176,Captain Paul,The protagonist,228
+2177,Foparete,The rookie,322
+2178,Jennifer Castaneda,The antagonist,417
+2179,Ian,The comic relief,319
+2180,Zafohedo,The sidekick,200
+2181,Keith,The sidekick,134
+2182,Dana,The wise elder,181
+2183,Jupu,The mysterious stranger,213
+2184,Vuzaku,The loyal friend,373
+2185,Sazipe,The villain,213
+2186,Captain Williamson,The loyal friend,124
+2187,Gaki,The villain,90
+2188,Gibo,The antagonist,373
+2189,Marcus Lopez,The betrayer,346
+2190,Anthony Nichols,The villain,398
+2191,Brian Adams,A supporting character,368
+2192,Megulozu,The wise elder,234
+2193,Monica Hall,The loyal friend,349
+2194,Johnny Peterson,The rookie,251
+2195,Jaliso,The villain,179
+2196,Officer Collins,The loyal friend,298
+2197,Yolanda Ford,The loyal friend,368
+2198,Erin Bridges,The comic relief,308
+2199,Amy Rowe,The comic relief,74
+2200,Norero,The protagonist,65
+2201,John Lee,A supporting character,58
+2202,Captain Skinner,The villain,331
+2203,Lunu,The villain,148
+2204,Sandra Martinez,The wise elder,370
+2205,Vatuvosa,The villain,120
+2206,Kayla,The anti-hero,268
+2207,Ray Ramos,The comic relief,252
+2208,Senator Rojas,The wise elder,53
+2209,Nalemedi,The protagonist,243
+2210,Joel Wise,A supporting character,105
+2211,Officer Boyd,The loyal friend,227
+2212,Mrs. Melanie Collins,The loyal friend,62
+2213,Major Morris,The antagonist,186
+2214,Napimu,The protagonist,120
+2215,Crystal,The love interest,16
+2216,Bobby,The rookie,173
+2217,Professor Pineda,The reluctant hero,385
+2218,Dawn Little,The betrayer,116
+2219,Professor Gonzalez,The sidekick,235
+2220,Paige,The protagonist,4
+2221,Dr. Boyer,The villain,376
+2222,Tapokubi,The mysterious stranger,246
+2223,Bimanovo,The comic relief,427
+2224,Professor Robinson,The loyal friend,41
+2225,Jemo,The villain,98
+2226,Captain Rodriguez,The wise elder,327
+2227,Officer Chen,The comic relief,400
+2228,Mark,The villain,298
+2229,Donald Wilson,The betrayer,215
+2230,Kristina,The mentor,65
+2231,Dr. Smith,The mentor,380
+2232,Zufe,The mysterious stranger,240
+2233,Richard Alvarez,The wise elder,378
+2234,Detective Carlson,The antagonist,408
+2235,Jemudu,The rookie,149
+2236,Detective Watson,The comic relief,288
+2237,Agent Davis,The comic relief,300
+2238,Zutaro,The rookie,416
+2239,Eric,The reluctant hero,289
+2240,Luke Galvan,The rookie,216
+2241,Wendy,The wise elder,167
+2242,Ruku,The reluctant hero,280
+2243,Ditejane,The villain,228
+2244,Colleen,The love interest,394
+2245,Brian,The mysterious stranger,70
+2246,Major Newman,The comic relief,163
+2247,Professor Miles,The rookie,245
+2248,Lacey,The betrayer,283
+2249,Lehaki,The rookie,342
+2250,David,The comic relief,331
+2251,Jesse,The antagonist,86
+2252,Tina,The love interest,321
+2253,Nicole Trujillo,The love interest,230
+2254,Senator Gonzales,The villain,361
+2255,Bujaha,The mentor,94
+2256,James,The protagonist,31
+2257,Detective Norris,The rookie,175
+2258,Michael,The rookie,113
+2259,Steven Washington,The mysterious stranger,22
+2260,Difa,The sidekick,43
+2261,Professor Kim,The reluctant hero,421
+2262,Fepagi,The love interest,400
+2263,Michael Lopez,The wise elder,135
+2264,Gregory Oconnor,The anti-hero,130
+2265,Senator Hill,The reluctant hero,326
+2266,Suzanne Spencer,The love interest,10
+2267,Christopher Phillips,The loyal friend,134
+2268,Officer Baker,The betrayer,183
+2269,Kapujigo,The antagonist,53
+2270,Michael,The love interest,106
+2271,Senator Smith,The comic relief,154
+2272,Dr. Little,The villain,80
+2273,Professor Gray,The sidekick,234
+2274,Kelago,The sidekick,293
+2275,Nilubizi,The protagonist,414
+2276,Albert Vincent,The mysterious stranger,128
+2277,Kimberly,The mentor,176
+2278,Negato,The betrayer,369
+2279,John,The betrayer,156
+2280,Bepaki,The mentor,384
+2281,Mary Ryan,The reluctant hero,255
+2282,Paul,The mentor,272
+2283,Alexandria,The betrayer,370
+2284,Tyler,The reluctant hero,149
+2285,Mapibula,The betrayer,304
+2286,Lisa Morris,The betrayer,290
+2287,Pimipu,The reluctant hero,239
+2288,Ashley Mills,The betrayer,151
+2289,Carl,The mysterious stranger,242
+2290,Professor Conley,The sidekick,224
+2291,Vamerobo,The loyal friend,235
+2292,Shane Harris,The rookie,73
+2293,Todd,The rookie,286
+2294,Gibapeja,The rookie,221
+2295,Officer Garcia,The wise elder,430
+2296,Sara Barrett,The antagonist,146
+2297,Alicia,The love interest,113
+2298,Jacqueline,The betrayer,376
+2299,Risegi,The mentor,406
+2300,Jonathan,The rookie,62
+2301,Detective Diaz,The love interest,374
+2302,Andrea Conrad,The comic relief,295
+2303,Captain Clark,The comic relief,94
+2304,Jobibive,The rookie,386
+2305,Travis,The reluctant hero,109
+2306,Angela Owen,The villain,95
+2307,Bruce,The mentor,389
+2308,Angela,The protagonist,363
+2309,Puzekogu,The antagonist,37
+2310,Captain Hurley,The wise elder,78
+2311,Jacob Erickson,The protagonist,250
+2312,Sogajo,The mysterious stranger,29
+2313,Madison,The love interest,330
+2314,Detective Baker,The mysterious stranger,17
+2315,Geraje,The wise elder,223
+2316,Billy,The betrayer,281
+2317,Agent Jones,The comic relief,255
+2318,Kevin,The comic relief,139
+2319,Shirley,The protagonist,45
+2320,Detective Yu,The love interest,365
+2321,Nivu,The rookie,22
+2322,Besa,A supporting character,98
+2323,Major Davis,The rookie,76
+2324,Jessica,The mysterious stranger,265
+2325,Puzekidu,The antagonist,198
+2326,Chelsey Fox,The protagonist,126
+2327,Agent Wright,The villain,309
+2328,Dr. Garrett,The protagonist,275
+2329,Major White,The mentor,82
+2330,Nigeveda,The wise elder,167
+2331,Kara,The mentor,145
+2332,Robert,The anti-hero,219
+2333,Rugefe,The sidekick,127
+2334,Kofu,The sidekick,121
+2335,Mark Howard,A supporting character,45
+2336,Nerale,The reluctant hero,217
+2337,Detective Ellis,The anti-hero,133
+2338,Major Ortega,The reluctant hero,361
+2339,Nicole,The sidekick,17
+2340,Vere,The protagonist,89
+2341,Garrett,A supporting character,415
+2342,James Morgan,The love interest,5
+2343,Eric,The protagonist,169
+2344,Harura,The antagonist,65
+2345,Rena,The mysterious stranger,348
+2346,Sofugo,The antagonist,53
+2347,Professor Murillo,The love interest,278
+2348,Captain Ramos,The betrayer,259
+2349,Michael,The mysterious stranger,384
+2350,Agent Edwards,The wise elder,424
+2351,Erika Watson PhD,The anti-hero,214
+2352,Ryan,The comic relief,13
+2353,Lisa Hart,The love interest,61
+2354,Fimibole,The rookie,30
+2355,Ralph Howe,The comic relief,366
+2356,Professor King,The betrayer,11
+2357,Captain Nixon,The protagonist,282
+2358,James Barber,The villain,373
+2359,Kuzeba,The sidekick,58
+2360,Ms. Kelly Holder,The rookie,265
+2361,Vigeji,The betrayer,97
+2362,Eric Walker,The loyal friend,173
+2363,Officer Foley,The loyal friend,83
+2364,Rodney Norris,The mysterious stranger,115
+2365,Juan Hawkins,The anti-hero,387
+2366,Peki,A supporting character,228
+2367,Sara,The loyal friend,175
+2368,Bije,A supporting character,247
+2369,Leguga,The mentor,407
+2370,Luzige,The sidekick,154
+2371,Andrew Kelly,The betrayer,264
+2372,Agent Taylor,The villain,235
+2373,Sakuvi,The wise elder,57
+2374,Puni,The wise elder,152
+2375,Michael,The comic relief,138
+2376,Data,The sidekick,394
+2377,Jogusoti,The rookie,33
+2378,Crystal Shepherd,The mentor,176
+2379,Faselo,A supporting character,72
+2380,Christopher,The rookie,147
+2381,Agent Ross,The anti-hero,70
+2382,Videva,The antagonist,412
+2383,Morgan Cummings,The anti-hero,237
+2384,Carrie Petersen,The anti-hero,162
+2385,Firuvi,The betrayer,415
+2386,Officer Norris,The mentor,397
+2387,Susan Larson,The loyal friend,371
+2388,Nicholas Johnston,The antagonist,183
+2389,Hopa,The protagonist,90
+2390,Anthony Wise,The comic relief,375
+2391,Officer Bailey,The wise elder,387
+2392,Rizukomo,The reluctant hero,130
+2393,Lisa,The love interest,2
+2394,Robert,The antagonist,419
+2395,Professor Parrish,The comic relief,273
+2396,Cristina Delgado,The protagonist,344
+2397,Behe,The rookie,204
+2398,Pezisi,The mentor,70
+2399,Major Guzman,The loyal friend,39
+2400,Professor Smith,A supporting character,225
+2401,Kimberly,The protagonist,43
+2402,Patrick,The antagonist,375
+2403,Andrew Fernandez,The mysterious stranger,415
+2404,Edward,The betrayer,322
+2405,Connie Williams,The love interest,31
+2406,Gokarato,The love interest,2
+2407,Jenna Griffin,The mentor,88
+2408,Sapu,The protagonist,222
+2409,Kathy Walker,A supporting character,335
+2410,Keith,The mysterious stranger,299
+2411,Sabiri,The wise elder,105
+2412,Phillip,The love interest,274
+2413,Major Anderson,The protagonist,308
+2414,Dr. Miller,The antagonist,71
+2415,Sovuze,The mysterious stranger,211
+2416,Dr. Duncan,The villain,273
+2417,Tazazo,The reluctant hero,98
+2418,Diti,The protagonist,184
+2419,Mavadoku,The reluctant hero,240
+2420,Fusozu,The rookie,145
+2421,Senator Williams,The mysterious stranger,34
+2422,Hale,The mysterious stranger,148
+2423,Raymond,The villain,116
+2424,Senator Miller,The love interest,302
+2425,Warren,The wise elder,412
+2426,Senator Ayala,A supporting character,236
+2427,Major Anderson,The comic relief,340
+2428,Senator Taylor,The loyal friend,57
+2429,Anita,The wise elder,173
+2430,Tony,The mentor,188
+2431,Christina Gilbert,The rookie,382
+2432,Hija,A supporting character,233
+2433,Poso,The mentor,148
+2434,Jill,The love interest,200
+2435,Benjamin Frank,The protagonist,247
+2436,Detective Morris,The sidekick,244
+2437,Sandra,A supporting character,215
+2438,Michael Henderson,The loyal friend,270
+2439,Frank Wheeler,The sidekick,359
+2440,Zuju,The antagonist,99
+2441,Andrew,The villain,22
+2442,Officer Torres,The loyal friend,104
+2443,Dr. Huerta,The loyal friend,418
+2444,Captain Jensen,The betrayer,54
+2445,Jessica Thomas MD,The mysterious stranger,75
+2446,Christina Brooks,The reluctant hero,82
+2447,Fufozo,The wise elder,50
+2448,Sarah Rodriguez,The betrayer,1
+2449,Travis Mcintosh,The anti-hero,41
+2450,Samantha Smith,A supporting character,90
+2451,Ashley Cole,The betrayer,54
+2452,Andrew,The reluctant hero,343
+2453,Captain Clark,The mysterious stranger,65
+2454,Senator Medina,The loyal friend,67
+2455,Figunemi,The betrayer,114
+2456,James,The antagonist,140
+2457,Alexandra,The villain,150
+2458,Kesa,The sidekick,11
+2459,Captain Green,The antagonist,294
+2460,Officer Webb,The mysterious stranger,299
+2461,Keguti,The comic relief,400
+2462,Jessica,A supporting character,49
+2463,Pirote,The loyal friend,60
+2464,Dr. Thomas,The villain,154
+2465,Holly,The loyal friend,159
+2466,Kevin Alvarado,The mysterious stranger,365
+2467,Christopher Campbell,The antagonist,85
+2468,Officer Mccormick,The comic relief,360
+2469,Christine,The comic relief,102
+2470,Matthew Smith,The comic relief,317
+2471,Devon Christian,The rookie,219
+2472,Donna,The reluctant hero,129
+2473,Alicia Dillon,The rookie,223
+2474,Major Banks,The comic relief,271
+2475,Officer Hall,The reluctant hero,308
+2476,Dr. James,The betrayer,272
+2477,Captain Bray,The mysterious stranger,245
+2478,Jetuzu,The loyal friend,201
+2479,Mupejalo,The antagonist,111
+2480,Ethan Delacruz,The anti-hero,390
+2481,Major Schmidt,The mysterious stranger,190
+2482,Jacob,The anti-hero,209
+2483,Agent Mason,The antagonist,165
+2484,Officer Ellis,The loyal friend,174
+2485,Sara,The protagonist,89
+2486,David Moreno,The reluctant hero,259
+2487,Agent Cook,The betrayer,34
+2488,Major Long,The anti-hero,332
+2489,Gregory Bell,The mysterious stranger,53
+2490,Cynthia Good,The betrayer,149
+2491,Detective Mason,The rookie,51
+2492,Professor Cain,The protagonist,163
+2493,Sherry Zamora,The villain,325
+2494,Dr. Briggs,The villain,332
+2495,Agent Johnson,The loyal friend,429
+2496,Angela,The sidekick,20
+2497,Detective Ramirez,The rookie,306
+2498,Edward,The mysterious stranger,381
+2499,Kefomete,The wise elder,307
+2500,Penny,The betrayer,391
+2501,Senator Sandoval,The antagonist,58
+2502,Christopher,The mysterious stranger,284
+2503,Fafedi,The comic relief,336
+2504,Patrick,The villain,104
+2505,Susan,The villain,350
+2506,Lori Perez,The sidekick,428
+2507,Vetepako,The wise elder,64
+2508,Puresipo,The betrayer,340
+2509,John,A supporting character,227
+2510,Eric,The villain,315
+2511,Tati,The antagonist,55
+2512,Tara,The villain,2
+2513,Have,The sidekick,186
+2514,Erin Daniels,The wise elder,422
+2515,Gani,The wise elder,367
+2516,Dr. Clark,The anti-hero,99
+2517,Dillon,The antagonist,354
+2518,Detective Weaver,The sidekick,429
+2519,Detective Mcbride,The villain,230
+2520,Ellen Thornton,The loyal friend,155
+2521,Alexandria,A supporting character,271
+2522,Lule,The love interest,411
+2523,Derek,The betrayer,163
+2524,Gava,The sidekick,100
+2525,Vanessa Thomas DVM,The betrayer,4
+2526,Emily Grant,The comic relief,3
+2527,Luvirimo,The loyal friend,397
+2528,Zigegi,The anti-hero,314
+2529,Rigume,The antagonist,165
+2530,Jupamo,The anti-hero,232
+2531,Bailey Stewart,The rookie,188
+2532,Lafehebo,The wise elder,353
+2533,Professor Hobbs,The rookie,114
+2534,Pamela Beard,The love interest,228
+2535,Jason Ramos,The wise elder,124
+2536,Sarah,The loyal friend,197
+2537,Bigatoho,The protagonist,59
+2538,Agent Shannon,The love interest,104
+2539,Tozi,The sidekick,97
+2540,Dasibimo,The comic relief,286
+2541,Sarah,The comic relief,122
+2542,Richard Rodriguez,The betrayer,311
+2543,Major Lopez,The mentor,293
+2544,Lisa Adams,The antagonist,138
+2545,Crystal Hall,The anti-hero,100
+2546,Grace,The mentor,221
+2547,Michael,A supporting character,389
+2548,Professor Watts,A supporting character,423
+2549,Major Woods,The rookie,232
+2550,Wayne,The protagonist,120
+2551,Captain Jacobs,The protagonist,114
+2552,Jacqueline Christian,The mentor,46
+2553,Mago,The comic relief,69
+2554,Detective Henry,The comic relief,391
+2555,Corey Johnson,The protagonist,92
+2556,Kathy,The love interest,16
+2557,Alexis,The villain,200
+2558,Kudi,The sidekick,31
+2559,Pidosebo,The comic relief,48
+2560,Joseph,The reluctant hero,307
+2561,Patrick Mcneil,The mentor,118
+2562,Andrea Ho,The love interest,284
+2563,Valerie,The mentor,189
+2564,Fasuje,The loyal friend,413
+2565,Michelle,The sidekick,80
+2566,Tracy,The loyal friend,226
+2567,Mark,The anti-hero,333
+2568,Ridabaru,The betrayer,104
+2569,Captain Ellis,The protagonist,147
+2570,Jared Williams,The reluctant hero,346
+2571,Zekino,The sidekick,331
+2572,Jill,The wise elder,271
+2573,Dr. James,A supporting character,296
+2574,Logan Newton,The mentor,90
+2575,Kelly Liu,The comic relief,128
+2576,Kelly Hayes,The betrayer,213
+2577,Margaret,The mysterious stranger,227
+2578,Major Williams,The love interest,24
+2579,Officer Forbes,The rookie,148
+2580,Senator Stone,The mentor,19
+2581,Randall,The rookie,240
+2582,Officer Moss,The love interest,29
+2583,Mibigiba,The wise elder,277
+2584,Behi,The comic relief,47
+2585,Tofadu,The anti-hero,136
+2586,Kelli Mccoy,The reluctant hero,139
+2587,Gananoze,The sidekick,110
+2588,Bega,The villain,189
+2589,Agent Williams,The villain,324
+2590,James Torres,The love interest,214
+2591,Julia Henderson,The loyal friend,425
+2592,Officer Austin,The love interest,394
+2593,Jose Thomas,The betrayer,199
+2594,Agent Gallegos,The love interest,130
+2595,Bulaso,The reluctant hero,2
+2596,Shannon,The protagonist,110
+2597,Jennifer,The betrayer,393
+2598,Lavi,The anti-hero,89
+2599,Vahu,The rookie,372
+2600,Daniel,The antagonist,40
+2601,Kimberly,The mysterious stranger,279
+2602,Melissa Taylor,A supporting character,187
+2603,Agent Gutierrez,The reluctant hero,373
+2604,Agent Hayes,The betrayer,30
+2605,Kevin Marquez,The mysterious stranger,132
+2606,Senator Harris,The protagonist,342
+2607,Demerapi,The mentor,379
+2608,David Holt,The rookie,32
+2609,Neteda,The reluctant hero,1
+2610,Rebecca,The protagonist,310
+2611,Major Hogan,The anti-hero,65
+2612,Bapahu,The sidekick,10
+2613,Becky Wilson,The reluctant hero,23
+2614,Jack Mills,The mysterious stranger,413
+2615,Patrick,The mysterious stranger,129
+2616,Keja,A supporting character,358
+2617,Detective Moody,The antagonist,369
+2618,Tiffany Gray,The protagonist,70
+2619,Bozami,The betrayer,186
+2620,Agent James,The antagonist,52
+2621,Mode,The betrayer,359
+2622,Agent Tate,The antagonist,203
+2623,Rivu,The antagonist,154
+2624,Krystal Keller,The protagonist,77
+2625,Sean White,The comic relief,97
+2626,Professor Joseph,The loyal friend,121
+2627,Robert,The protagonist,135
+2628,Lozo,The rookie,81
+2629,Fodi,The anti-hero,369
+2630,Randy Griffin,The mentor,431
+2631,Fizupi,The love interest,195
+2632,Autumn Anderson,The villain,159
+2633,Puzuzu,The antagonist,384
+2634,Dr. Harris,The villain,349
+2635,Agent Dean,The antagonist,318
+2636,Jimmy Foley,The protagonist,91
+2637,Abigail Andrade,The wise elder,216
+2638,John,The reluctant hero,299
+2639,Brianna,The rookie,178
+2640,Officer Alvarez,The comic relief,431
+2641,Zurehoke,A supporting character,116
+2642,Bobby Greene,The protagonist,161
+2643,John,The mentor,169
+2644,Naluvutu,The loyal friend,339
+2645,Amy,A supporting character,203
+2646,Zimoli,The sidekick,117
+2647,Kristin Bryan,The anti-hero,378
+2648,Brandon,The protagonist,205
+2649,Eddie,The anti-hero,260
+2650,Amanda Nash,The comic relief,283
+2651,Agent Estrada,The love interest,347
+2652,Mary,The loyal friend,356
+2653,Thomas Williams,The sidekick,104
+2654,Robert,The rookie,242
+2655,Ruzemivu,The wise elder,257
+2656,Detective Thompson,The comic relief,350
+2657,Captain Powers,The antagonist,320
+2658,Sojo,The reluctant hero,425
+2659,Melissa Larson,The rookie,20
+2660,Kristin,The mysterious stranger,276
+2661,Gregory,The villain,161
+2662,Stanley,The love interest,279
+2663,Minojepe,A supporting character,265
+2664,Tara Davis,The sidekick,46
+2665,Jacob Gray,The antagonist,367
+2666,Dr. Jones,The anti-hero,363
+2667,Joshua Carter,A supporting character,277
+2668,Senator Taylor,The love interest,213
+2669,Dr. Neal,The protagonist,261
+2670,Joshua,The love interest,48
+2671,Captain Rose,The love interest,220
+2672,Captain Warren,The sidekick,368
+2673,Heather,A supporting character,83
+2674,Cheryl,The protagonist,318
+2675,Daniel,The betrayer,103
+2676,Professor Blair,The protagonist,93
+2677,Cristina,The comic relief,57
+2678,Mrs. Melissa Peck,The sidekick,307
+2679,Valerie,The mentor,155
+2680,Nini,The rookie,280
+2681,Justin,The anti-hero,424
+2682,Dogagoge,The loyal friend,322
+2683,Chelsea,The love interest,258
+2684,Nimazepu,The rookie,307
+2685,Leslie,The reluctant hero,387
+2686,Whitney Gomez,The loyal friend,8
+2687,David,The betrayer,314
+2688,Captain Hart,The sidekick,145
+2689,April,The protagonist,299
+2690,Captain Welch,The betrayer,403
+2691,Fasa,The loyal friend,424
+2692,Christopher Lynch DDS,A supporting character,275
+2693,Tanisote,The villain,175
+2694,Tiffany,The sidekick,65
+2695,Senator Smith,The mysterious stranger,199
+2696,Kuvupe,The rookie,281
+2697,Mario Wilson,The love interest,306
+2698,Melanie,The reluctant hero,396
+2699,Lauren,The villain,176
+2700,Yolanda,The comic relief,41
+2701,Robert,The mentor,74
+2702,Vohani,The mentor,372
+2703,Justin Walsh,A supporting character,201
+2704,Curtis Campbell,The mentor,33
+2705,Najuvuda,The villain,9
+2706,Major Tyler,The villain,83
+2707,Piniso,The sidekick,429
+2708,Major Parker,The protagonist,98
+2709,William,The villain,110
+2710,Mario,The mentor,367
+2711,Michael Peterson,The sidekick,390
+2712,Lisa Johnson,The mentor,399
+2713,Gary Morgan,The loyal friend,83
+2714,Agent Chambers,The antagonist,262
+2715,Rebecca Brewer,The antagonist,400
+2716,Dr. Olson,The anti-hero,197
+2717,Courtney,The sidekick,198
+2718,Patricia,The rookie,403
+2719,Detective Herrera,The mentor,334
+2720,Agent Rogers,The mysterious stranger,212
+2721,Kristen,The betrayer,350
+2722,Dr. Gutierrez,The loyal friend,363
+2723,Detective Newton,The betrayer,134
+2724,Major Conley,The comic relief,240
+2725,Nathaniel Stewart,The villain,18
+2726,Amanda,The betrayer,38
+2727,Juje,The villain,86
+2728,Jared,The anti-hero,207
+2729,Rumofama,The betrayer,245
+2730,Gina,The comic relief,360
+2731,Reri,The betrayer,350
+2732,Stacy Gomez,The sidekick,372
+2733,Tara,The wise elder,183
+2734,Juan,The mentor,113
+2735,William Sims,The villain,172
+2736,Officer Kirby,The love interest,255
+2737,Petolo,The sidekick,97
+2738,Jean Larson,The wise elder,323
+2739,Nicole Thornton,The reluctant hero,424
+2740,Leonard,A supporting character,284
+2741,Major Johnson,The comic relief,351
+2742,Robert,The comic relief,299
+2743,David Hayes DVM,The anti-hero,286
+2744,Safo,The sidekick,354
+2745,Lofehefo,The rookie,346
+2746,Javier,The protagonist,381
+2747,Hoja,The antagonist,196
+2748,Jejuli,The rookie,265
+2749,Brian Glover,The villain,196
+2750,Susan Wallace,The sidekick,338
+2751,John Porter,A supporting character,388
+2752,Major Lee,The comic relief,393
+2753,Sandra,The antagonist,162
+2754,Jessica,The anti-hero,325
+2755,Donuje,A supporting character,417
+2756,Alexandra,The mentor,268
+2757,Sahazivo,The mentor,380
+2758,Kimberly,The anti-hero,386
+2759,Jabago,The villain,411
+2760,Shane Short,The betrayer,111
+2761,Ketimivi,The reluctant hero,286
+2762,Ruvoda,The mysterious stranger,428
+2763,Megan Anderson,The mentor,388
+2764,Lopazo,The betrayer,387
+2765,Jenny,The comic relief,343
+2766,Stephen,A supporting character,238
+2767,Nuhovi,The antagonist,410
+2768,Dakahala,The reluctant hero,378
+2769,Professor Reeves,The mysterious stranger,424
+2770,Alexandra,The reluctant hero,31
+2771,Vagani,The antagonist,157
+2772,Timothy Mcdaniel,The anti-hero,327
+2773,Major Wheeler,The villain,180
+2774,Christopher,The mentor,87
+2775,Steven,The anti-hero,101
+2776,Joseph Hopkins,The villain,201
+2777,Kenneth Collins,The antagonist,419
+2778,Mopehu,The comic relief,404
+2779,Erica Lee,The protagonist,376
+2780,Professor Hill,The mysterious stranger,70
+2781,Luis,The sidekick,302
+2782,Rudofa,The anti-hero,329
+2783,Scott,The mysterious stranger,43
+2784,Sala,The betrayer,327
+2785,David,A supporting character,385
+2786,Donald Smith,The wise elder,303
+2787,Kayla Clark,A supporting character,329
+2788,Professor Bell,The anti-hero,9
+2789,Dube,The rookie,7
+2790,Captain Flores,The villain,206
+2791,Captain Thomas,The love interest,36
+2792,Diane Sanchez,The reluctant hero,225
+2793,Charles,The villain,251
+2794,Gina Wallace,The betrayer,210
+2795,John Lowe,The comic relief,176
+2796,Senator Rodriguez,The protagonist,395
+2797,Jeffery White,The protagonist,260
+2798,Keni,The reluctant hero,264
+2799,Caitlin,The love interest,386
+2800,Sara Lyons,The protagonist,181
+2801,Bemo,The betrayer,405
+2802,Christina,The rookie,229
+2803,Robert Marquez,The love interest,190
+2804,Kim Beltran,The loyal friend,265
+2805,Katelyn,The mysterious stranger,148
+2806,Steven,The protagonist,83
+2807,Fomemeve,The rookie,304
+2808,David,The wise elder,301
+2809,Lisa,The reluctant hero,139
+2810,Gajuji,The antagonist,225
+2811,Officer Gillespie,A supporting character,50
+2812,Jesus Cohen,The comic relief,182
+2813,Dr. Mckinney,The comic relief,357
+2814,Steven,The villain,397
+2815,Jesse,The antagonist,398
+2816,Officer Walker,The protagonist,15
+2817,Lisa Durham,The reluctant hero,409
+2818,Philip,The comic relief,86
+2819,Senator Lyons,The antagonist,272
+2820,Elizabeth,The mentor,362
+2821,Sonya Chavez,The wise elder,162
+2822,Major Johnson,The rookie,336
+2823,Thomas,The sidekick,327
+2824,Michael,The rookie,153
+2825,Senator Murray,The antagonist,92
+2826,Dr. Jackson,The wise elder,272
+2827,Tajusu,The wise elder,373
+2828,Lindsey Anderson,The love interest,175
+2829,Robert Robles,The wise elder,51
+2830,Matthew Sparks,The mentor,25
+2831,Amanda,The mysterious stranger,53
+2832,Zufa,The protagonist,277
+2833,Richard,The sidekick,361
+2834,Jaguno,The love interest,358
+2835,Marc Kelley,The love interest,96
+2836,Migilama,The rookie,162
+2837,Janet Peterson,The anti-hero,350
+2838,Lebojumi,The sidekick,51
+2839,Lisa,The love interest,292
+2840,Rachel Graham,The reluctant hero,119
+2841,Kristin,The loyal friend,99
+2842,Amy,The wise elder,312
+2843,Mehoreba,The antagonist,27
+2844,Hude,The rookie,352
+2845,Joel,The love interest,289
+2846,Elaine,The antagonist,118
+2847,Christian,The wise elder,155
+2848,Sarah,The love interest,137
+2849,Katelyn Vargas,The comic relief,88
+2850,Hejake,The comic relief,238
+2851,Steven,The wise elder,34
+2852,Angela,The mentor,169
+2853,Senator Short,The rookie,193
+2854,Gregory,The mentor,316
+2855,Nepa,The comic relief,222
+2856,Stephanie,The villain,200
+2857,Suzora,The loyal friend,59
+2858,Chad,The betrayer,90
+2859,Nopu,The betrayer,45
+2860,Robert Wise,The loyal friend,276
+2861,Captain Gray,The anti-hero,29
+2862,Troy,The mentor,320
+2863,Lurole,The comic relief,409
+2864,Migi,The mysterious stranger,343
+2865,Guhu,The protagonist,372
+2866,Ann Montoya,The betrayer,202
+2867,Senator Clay,The comic relief,216
+2868,Ninusi,The mentor,429
+2869,Makayla Smith,The comic relief,1
+2870,Chase Schmidt,The reluctant hero,406
+2871,Kenneth Gonzalez,The comic relief,56
+2872,Erin,The love interest,212
+2873,Mutasi,The rookie,416
+2874,Dr. Stewart,The rookie,374
+2875,Kekese,The protagonist,85
+2876,Dr. Hudson,The mysterious stranger,55
+2877,Robin,The mentor,368
+2878,Gokikezi,The wise elder,393
+2879,Kevin,The protagonist,285
+2880,Jessica Haas,The loyal friend,171
+2881,Brandon Smith,The rookie,305
+2882,Zafate,The reluctant hero,103
+2883,Valerie,The reluctant hero,126
+2884,Puki,The mysterious stranger,288
+2885,Major Powell,The wise elder,263
+2886,Major Anderson,The loyal friend,251
+2887,Jacob Dunn,The antagonist,223
+2888,Captain Brown,The mentor,276
+2889,Jacqueline,The reluctant hero,309
+2890,Lubahesi,The protagonist,367
+2891,Heather Callahan,The antagonist,75
+2892,Polerahe,A supporting character,303
+2893,Captain Glenn,The mysterious stranger,7
+2894,Joe,The love interest,234
+2895,Sufu,The villain,36
+2896,Jacqueline,A supporting character,6
+2897,Phillip,The protagonist,274
+2898,Louis,The loyal friend,259
+2899,Patrick,The mentor,266
+2900,Zufohe,The antagonist,285
+2901,Professor James,The comic relief,114
+2902,Mary Wells,The mentor,269
+2903,James Middleton,The sidekick,36
+2904,Brittany Bright,The wise elder,48
+2905,Elizabeth,The villain,203
+2906,Fibediku,The loyal friend,238
+2907,Benjamin Smith,The rookie,47
+2908,Katelyn Kim,The antagonist,294
+2909,Veronica,The anti-hero,150
+2910,Martin Perry,The comic relief,166
+2911,Senator Bryant,The villain,82
+2912,Major Mccormick,The sidekick,283
+2913,Officer Munoz,The sidekick,53
+2914,Ronald,The sidekick,120
+2915,Zodina,The betrayer,312
+2916,Professor White,The protagonist,296
+2917,Pegibozi,The antagonist,41
+2918,Agent Hicks,The sidekick,254
+2919,Satapihu,The protagonist,289
+2920,Dr. Arnold,The rookie,77
+2921,Dr. Cole,The loyal friend,221
+2922,Senator Kelly,The love interest,159
+2923,Zofamu,The comic relief,144
+2924,Finulizi,The love interest,69
+2925,Jacob,The betrayer,372
+2926,Laura Bradford,A supporting character,235
+2927,Lova,The betrayer,24
+2928,Rifu,The villain,243
+2929,Joel,The love interest,310
+2930,Walter,A supporting character,90
+2931,Joshua Richardson,The antagonist,222
+2932,Bohamenu,The loyal friend,296
+2933,Agent Good,The mysterious stranger,416
+2934,Senator Carroll,The reluctant hero,312
+2935,Ashley Olson,The rookie,213
+2936,Hannah,The reluctant hero,326
+2937,Mijo,The reluctant hero,281
+2938,Nicholas Terrell,The rookie,377
+2939,Major Terrell,The reluctant hero,204
+2940,Verajujo,The mentor,191
+2941,Julie Miller,The mentor,163
+2942,Ann Kennedy,The antagonist,402
+2943,Toni Miller,The sidekick,87
+2944,Cynthia,The mysterious stranger,113
+2945,Emily Brown,The wise elder,312
+2946,Captain Cooper,The betrayer,185
+2947,Major Osborne,The wise elder,357
+2948,Jose Harrison,The mentor,100
+2949,Jennifer Yu,The wise elder,152
+2950,Lauren,The betrayer,115
+2951,Manege,The anti-hero,355
+2952,Keith,The antagonist,47
+2953,Toro,The sidekick,68
+2954,Austin,The betrayer,327
+2955,Agent Livingston,The villain,39
+2956,Zele,A supporting character,358
+2957,Monica Elliott,The wise elder,356
+2958,Detective Brown,The anti-hero,20
+2959,Christopher Williams,The mentor,96
+2960,Jisolino,The protagonist,31
+2961,Captain Mooney,The betrayer,145
+2962,Lisa,The betrayer,381
+2963,Claudia,The mysterious stranger,416
+2964,Bradley Wagner,The reluctant hero,353
+2965,Melissa,The betrayer,337
+2966,Palohabi,The anti-hero,266
+2967,Pusamu,The loyal friend,308
+2968,Dutile,The mentor,183
+2969,Joshua,The mysterious stranger,145
+2970,Geme,The loyal friend,197
+2971,Douglas Hodge,The betrayer,15
+2972,Senator Smith,The rookie,80
+2973,Daniel,The wise elder,119
+2974,Greg,The villain,113
+2975,Gojeji,The loyal friend,334
+2976,Brittany,The mysterious stranger,77
+2977,Jeremy Morton,The sidekick,322
+2978,Michael Washington,The rookie,395
+2979,Lauren,The comic relief,209
+2980,Hedifina,The villain,124
+2981,Michelle,The protagonist,388
+2982,Bradley Thomas,The anti-hero,346
+2983,Major Peck,A supporting character,420
+2984,Buga,The love interest,362
+2985,Lozehi,The rookie,372
+2986,Ferunola,The rookie,368
+2987,Begafu,The antagonist,192
+2988,Jon Chaney,The villain,247
+2989,Kaylee,The protagonist,198
+2990,Fizaho,The comic relief,275
+2991,Ralovoge,The antagonist,128
+2992,Professor Young,The mysterious stranger,189
+2993,Scott,The comic relief,70
+2994,Christine Navarro,The comic relief,358
+2995,Tevu,The anti-hero,35
+2996,Martin Campos,The loyal friend,331
+2997,Darren,The rookie,333
+2998,James Turner,A supporting character,120
+2999,Julie,The protagonist,316
+3000,Gadage,The wise elder,42
+3001,Karen,The rookie,200
+3002,Amanda,The antagonist,306
+3003,Dr. James,The antagonist,63
+3004,Karen Thomas,The anti-hero,248
+3005,Officer Berg,The anti-hero,233
+3006,Alexander,The comic relief,376
+3007,Joan Gregory,The love interest,98
+3008,Dr. Nixon,The anti-hero,298
+3009,Senator Vega,A supporting character,316
+3010,Matenazi,The anti-hero,10
+3011,Blake,The mysterious stranger,425
+3012,Marcia Blanchard,The rookie,25
+3013,Thomas Garrison,The love interest,251
+3014,Derek Garcia,The love interest,231
+3015,Destiny,The mentor,418
+3016,Peter,A supporting character,265
+3017,Kendra,The wise elder,298
+3018,Detective Curry,A supporting character,378
+3019,Vaki,The mentor,26
+3020,Haperofa,The mentor,119
+3021,Gotojedu,The rookie,228
+3022,Agent Navarro,The mysterious stranger,222
+3023,Captain Chapman,The comic relief,55
+3024,James,The sidekick,35
+3025,Bozike,The antagonist,352
+3026,Professor Rogers,The anti-hero,158
+3027,Catherine Kelley,The rookie,347
+3028,Mife,The sidekick,360
+3029,Detective Chambers,A supporting character,321
+3030,Marie,The mentor,326
+3031,Brent Garcia,The antagonist,425
+3032,Nofo,The loyal friend,360
+3033,Daniel Campbell,A supporting character,231
+3034,Senator Lee,The antagonist,144
+3035,Detective Johnson,The anti-hero,389
+3036,Professor Davis,The reluctant hero,383
+3037,Mary Houston,A supporting character,84
+3038,Major Sampson,A supporting character,343
+3039,Major Little,The villain,361
+3040,Jean,The mentor,231
+3041,Scott Anderson,The rookie,234
+3042,Diana,The rookie,232
+3043,Rachel,A supporting character,111
+3044,Kudenike,The rookie,131
+3045,Rohorena,The loyal friend,22
+3046,Lelapute,The mysterious stranger,306
+3047,Ashlee,The mentor,47
+3048,Stephanie Dominguez,The mentor,149
+3049,Fefadu,The mysterious stranger,210
+3050,Jon,The antagonist,365
+3051,Steven,The wise elder,382
+3052,Margaret Livingston,The antagonist,325
+3053,Senator Hill,The loyal friend,264
+3054,Steven Carrillo,The comic relief,121
+3055,Marcus,The villain,380
+3056,Togapebe,The wise elder,301
+3057,Fernando,The reluctant hero,17
+3058,Richard Reyes,The mysterious stranger,234
+3059,Tomuketi,The rookie,61
+3060,Anthony Sosa,The wise elder,209
+3061,Tijo,A supporting character,268
+3062,Jeremiah Vasquez,The sidekick,94
+3063,Sarah,The anti-hero,179
+3064,Dr. Bishop,The comic relief,236
+3065,Henifu,The sidekick,3
+3066,Gregory,The betrayer,143
+3067,Charles Mack II,The mentor,254
+3068,Senator Schneider,The mentor,155
+3069,Agent Gaines,The protagonist,336
+3070,Luta,The betrayer,270
+3071,Ashley Jones,The reluctant hero,344
+3072,Sidinaba,The wise elder,56
+3073,Lonafo,The protagonist,354
+3074,Captain Duncan,The comic relief,238
+3075,Dr. King,The antagonist,24
+3076,Jafati,The anti-hero,363
+3077,Sean,The comic relief,373
+3078,Brittany Bowman,The reluctant hero,280
+3079,Guki,The love interest,400
+3080,Nilone,The comic relief,295
+3081,Sarah,The anti-hero,414
+3082,Professor Ortega,The villain,61
+3083,Gina,The mysterious stranger,209
+3084,Naja,The antagonist,252
+3085,Joseph,The mentor,414
+3086,Summer Andrews,A supporting character,430
+3087,Mibuha,The rookie,235
+3088,Zachary,The villain,103
+3089,Professor Case,The comic relief,78
+3090,Sogemepe,The anti-hero,374
+3091,Fufo,The loyal friend,283
+3092,Jeffrey Anthony DDS,A supporting character,9
+3093,Kristen,The sidekick,236
+3094,April Finley,The loyal friend,2
+3095,Lisa,The protagonist,135
+3096,Major Olson,The wise elder,98
+3097,Taylor Howard,The comic relief,175
+3098,Lesifa,The loyal friend,105
+3099,Zugu,The mysterious stranger,181
+3100,Evelyn,The love interest,143
+3101,Professor Morales,The betrayer,239
+3102,Agent Chen,The rookie,414
+3103,Safo,The mysterious stranger,214
+3104,Susan,The love interest,318
+3105,Christopher,The love interest,222
+3106,Tonya Miller,A supporting character,350
+3107,Lahu,The reluctant hero,353
+3108,Steve,The comic relief,52
+3109,Maria Thompson,The wise elder,412
+3110,Benjamin,The antagonist,58
+3111,Connor Dominguez,The comic relief,122
+3112,Lujujomo,The comic relief,45
+3113,Tapu,The rookie,280
+3114,Lydia Howard,The mentor,308
+3115,Mark Moss,The mentor,364
+3116,Detective Taylor,The sidekick,311
+3117,Made,A supporting character,374
+3118,Nathan Watkins,The protagonist,70
+3119,Arthur Fernandez MD,The rookie,96
+3120,Agent Ferguson,The mentor,381
+3121,Zifira,A supporting character,59
+3122,Senator Flowers,The sidekick,30
+3123,Detective Cole,The antagonist,24
+3124,Amanda Brown PhD,The rookie,153
+3125,Bruce Roman,The rookie,385
+3126,Elizabeth,The sidekick,238
+3127,Officer Ellis,The mysterious stranger,345
+3128,Agent Gregory,The rookie,100
+3129,Agent Sawyer,The wise elder,359
+3130,Foge,The rookie,419
+3131,Kerry Buckley,The protagonist,408
+3132,Benjamin,The love interest,424
+3133,Dutu,The wise elder,82
+3134,Detective Thomas,The mysterious stranger,258
+3135,Togu,The protagonist,262
+3136,Desiree,The love interest,219
+3137,Kivemune,The villain,212
+3138,Thomas Williams,The reluctant hero,2
+3139,Sepo,The anti-hero,306
+3140,Bianca Jackson,A supporting character,64
+3141,Captain Williams,The mentor,295
+3142,Riley Bryant,The wise elder,419
+3143,Kevin Meyers,The loyal friend,81
+3144,Daniel,The mysterious stranger,343
+3145,Totadu,A supporting character,284
+3146,Nuvenupe,The wise elder,374
+3147,Agent Crawford,A supporting character,240
+3148,Connie Brock,A supporting character,139
+3149,Ronald,The wise elder,418
+3150,Vickie Gregory,The reluctant hero,201
+3151,Tikolojo,The mentor,104
+3152,Professor Nguyen,A supporting character,234
+3153,Theresa,The protagonist,61
+3154,Barbara,The mentor,283
+3155,Russell Mcguire,The rookie,384
+3156,Kathryn,The reluctant hero,408
+3157,Captain Watkins,The mentor,148
+3158,Bryan Thomas,The rookie,325
+3159,Robert,The betrayer,112
+3160,Heather,The anti-hero,346
+3161,Jessica Frost,The protagonist,396
+3162,Officer Williams,The sidekick,308
+3163,Ryan Salazar,The mysterious stranger,171
+3164,Captain Strickland,The comic relief,412
+3165,Officer Smith,The protagonist,163
+3166,Mr. Christopher Davis,The betrayer,263
+3167,Agent Pearson,The mysterious stranger,79
+3168,Captain Eaton,The mentor,118
+3169,Robert Barton,The anti-hero,323
+3170,Christine Bowman,The mysterious stranger,29
+3171,Kizivaje,The betrayer,364
+3172,Meku,The love interest,129
+3173,Riju,The mysterious stranger,0
+3174,Gosefe,The villain,218
+3175,Alexandra,The villain,219
+3176,Robert,The betrayer,239
+3177,Sharon,The love interest,344
+3178,Holebilu,A supporting character,161
+3179,Cheryl,The betrayer,319
+3180,Zihudogo,The antagonist,381
+3181,Rope,The antagonist,28
+3182,Benjamin,The mysterious stranger,426
+3183,Jonathan Clements,The wise elder,168
+3184,Rachel Bailey,The comic relief,330
+3185,Fube,The loyal friend,378
+3186,David Wilson,A supporting character,280
+3187,Alyssa,The loyal friend,314
+3188,Ivan Juarez,The mentor,258
+3189,Amber,The rookie,246
+3190,Randy Hopkins,The loyal friend,64
+3191,Cory Hogan,The loyal friend,48
+3192,Tracy Wells,The anti-hero,6
+3193,Professor Thompson,The love interest,346
+3194,Elizabeth,The villain,180
+3195,Lumi,The villain,140
+3196,Bradley,The love interest,162
+3197,Dominique Hamilton,The anti-hero,300
+3198,Professor Cook,The protagonist,382
+3199,Olivia Williams,The antagonist,291
+3200,Professor Yang,The anti-hero,139
+3201,Bajo,The protagonist,271
+3202,Sara,The comic relief,35
+3203,Nale,The love interest,203
+3204,Fusihefu,The love interest,416
+3205,Richard Washington,The mentor,271
+3206,Professor Wilson,The wise elder,147
+3207,Professor Jacobson,The sidekick,79
+3208,Leslie Nguyen,The reluctant hero,312
+3209,Michael Nguyen,The wise elder,154
+3210,Kimberly,A supporting character,85
+3211,Mizehopu,A supporting character,333
+3212,Detective Nguyen,The sidekick,396
+3213,Oscar Kane,The mentor,363
+3214,Nikoduba,The betrayer,379
+3215,Nicholas,The loyal friend,40
+3216,Jeffrey,The sidekick,315
+3217,Thomas,The comic relief,77
+3218,Sedofuvo,The comic relief,211
+3219,Captain Washington,The antagonist,190
+3220,Captain Zamora,A supporting character,52
+3221,Masopu,The villain,360
+3222,Migikenu,The comic relief,138
+3223,Tosototo,The betrayer,412
+3224,Dustin,The comic relief,84
+3225,Jordan Hughes,The wise elder,320
+3226,Vojofeka,The sidekick,59
+3227,Nathan Chen,The love interest,249
+3228,Christina Martinez,The sidekick,39
+3229,Fudi,The reluctant hero,231
+3230,Officer Schwartz,The betrayer,206
+3231,Brian,The mentor,302
+3232,Vapo,The love interest,182
+3233,Derek,The betrayer,241
+3234,Melissa,The protagonist,410
+3235,Stephen,The antagonist,110
+3236,George,The comic relief,341
+3237,Stephen Munoz,The mysterious stranger,322
+3238,Defovu,The antagonist,24
+3239,Habogone,A supporting character,346
+3240,Margaret Carr,The love interest,304
+3241,Wayne Wyatt,The protagonist,285
+3242,Hosa,The mysterious stranger,47
+3243,Christopher,The mysterious stranger,313
+3244,Senator Vincent,The comic relief,258
+3245,Senator Burns,The loyal friend,46
+3246,Leslie Hood MD,The mentor,330
+3247,Nancy Wright,A supporting character,329
+3248,Kevin Snow,The reluctant hero,74
+3249,Brittany Berry,The wise elder,230

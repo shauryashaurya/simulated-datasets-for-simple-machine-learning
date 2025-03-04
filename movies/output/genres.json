@@ -1,0 +1,74 @@
+{
+  "0": {
+    "id": 0,
+    "name": "Romance"
+  },
+  "1": {
+    "id": 1,
+    "name": "Documentary"
+  },
+  "2": {
+    "id": 2,
+    "name": "Film-Noir"
+  },
+  "3": {
+    "id": 3,
+    "name": "Horror"
+  },
+  "4": {
+    "id": 4,
+    "name": "Western"
+  },
+  "5": {
+    "id": 5,
+    "name": "Action"
+  },
+  "6": {
+    "id": 6,
+    "name": "IMAX"
+  },
+  "7": {
+    "id": 7,
+    "name": "Mystery"
+  },
+  "8": {
+    "id": 8,
+    "name": "Thriller"
+  },
+  "9": {
+    "id": 9,
+    "name": "Fantasy"
+  },
+  "10": {
+    "id": 10,
+    "name": "Sci-Fi"
+  },
+  "11": {
+    "id": 11,
+    "name": "Children"
+  },
+  "12": {
+    "id": 12,
+    "name": "Drama"
+  },
+  "13": {
+    "id": 13,
+    "name": "Animation"
+  },
+  "14": {
+    "id": 14,
+    "name": "Comedy"
+  },
+  "15": {
+    "id": 15,
+    "name": "Crime"
+  },
+  "16": {
+    "id": 16,
+    "name": "Musical"
+  },
+  "17": {
+    "id": 17,
+    "name": "War"
+  }
+}
